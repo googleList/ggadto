@@ -1,0 +1,167 @@
+{
+  "domain": "https://chaudizhi.com",
+  "language": "zh-CN",
+  "areaServed": "Worldwide",
+  "pages": [
+    {
+      "file": "index.html",
+      "title": "谷歌SEO与谷歌广告服务｜谷歌排名、开户与代投 - RankLab",
+      "description": "面向全球市场提供谷歌SEO、谷歌排名优化、谷歌开户和谷歌广告代投服务，结合关键词规划、网站开发、转化追踪与持续优化，帮助企业连接海外客户。",
+      "h1": "谷歌SEO与谷歌广告服务",
+      "keywords": "谷歌SEO,谷歌广告,谷歌排名",
+      "label": "首页"
+    },
+    {
+      "file": "pages/about.html",
+      "title": "关于RankLab｜全球谷歌SEO与广告营销服务",
+      "description": "了解RankLab的谷歌SEO与广告服务思路：根据目标市场、搜索需求、网站承接与转化数据制定全球营销方案，以简体中文沟通项目与执行计划。",
+      "h1": "关于RankLab全球搜索营销服务",
+      "keywords": "谷歌营销服务商,全球数字营销",
+      "label": "关于我们"
+    },
+    {
+      "file": "pages/ad-services.html",
+      "title": "全球广告代投与开户｜Google、Meta、TikTok - RankLab",
+      "description": "全球媒体广告代投与账户支持，覆盖Google Ads、Facebook/Meta、TikTok、X和Telegram。按平台、地区、预算和转化目标选择适合的开户与投放方案。",
+      "h1": "全球广告代投与平台开户",
+      "keywords": "全球广告代投,海外广告开户",
+      "label": "广告代投与开户"
+    },
+    {
+      "file": "pages/google-ads.html",
+      "title": "谷歌代投服务｜Google广告策略与持续优化 - RankLab",
+      "description": "谷歌广告代投覆盖搜索、展示、YouTube、购物和效果广告。提供关键词研究、账户结构、素材测试、转化追踪及预算优化，面向全球目标市场制定投放方案。",
+      "h1": "谷歌代投与Google广告优化服务",
+      "keywords": "谷歌代投,谷歌广告代投,Google广告",
+      "label": "谷歌广告代投"
+    },
+    {
+      "file": "pages/google-account.html",
+      "title": "谷歌开户服务｜Google Ads账户申请与配置 - RankLab",
+      "description": "谷歌开户服务协助准备广告主与网站资料，完成Google Ads账户申请、访问权限、结算配置及转化追踪检查。按企业主体、市场和平台审核条件确认开户方案。",
+      "h1": "谷歌开户与Google Ads账户支持",
+      "keywords": "谷歌开户,谷歌广告开户,Google Ads开户",
+      "label": "谷歌开户"
+    },
+    {
+      "file": "pages/facebook-ads.html",
+      "title": "Facebook广告代投与开户｜Meta全球获客 - RankLab",
+      "description": "Facebook与Meta广告代投、开户和资产配置服务，覆盖Instagram、Reels、潜客表单、电商与APP推广，通过受众、素材和有效转化持续优化全球获客。",
+      "h1": "Facebook广告代投与Meta开户服务",
+      "keywords": "Facebook广告代投,Meta开户,Instagram广告",
+      "label": "Facebook / Meta广告"
+    },
+    {
+      "file": "pages/tiktok-ads.html",
+      "title": "TikTok广告代投与开户｜短视频与APP获客 - RankLab",
+      "description": "TikTok广告代投与账户支持，提供短视频创意测试、信息流广告、APP推广和网站转化方案，结合Pixel、事件追踪及真实业务数据优化海外获客。",
+      "h1": "TikTok广告代投与开户服务",
+      "keywords": "TikTok广告代投,TikTok开户,短视频获客",
+      "label": "TikTok广告"
+    },
+    {
+      "file": "pages/x-ads.html",
+      "title": "X与Twitter广告代投｜内容推广与全球流量 - RankLab",
+      "description": "X/Twitter广告代投与账户支持，围绕推广帖子、视频、网站访问和APP增长规划受众、素材及预算，按目标市场和转化路径持续评估效果。",
+      "h1": "X与Twitter广告代投服务",
+      "keywords": "Twitter广告代投,X广告,Twitter开户",
+      "label": "X / Twitter广告"
+    },
+    {
+      "file": "pages/telegram-ads.html",
+      "title": "Telegram广告代投｜频道、Bot与社群推广 - RankLab",
+      "description": "Telegram广告代投与账户支持，面向频道、Bot、Mini App和社群流量规划广告文案、频道定向与预算，持续追踪频道加入和Bot启动等业务指标。",
+      "h1": "Telegram广告代投与频道推广",
+      "keywords": "Telegram广告代投,频道推广,Bot推广",
+      "label": "Telegram广告"
+    },
+    {
+      "file": "pages/service.html",
+      "title": "核心服务｜全球广告优化、素材与营销咨询 - RankLab",
+      "description": "RankLab提供全球媒体投放、效果优化、受众定位、创意素材、数据分析和营销战略咨询，并协同谷歌SEO、网站开发与广告开户服务完成海外获客。",
+      "h1": "专业广告服务商开户与全球营销服务",
+      "keywords": "海外营销服务,广告效果优化,营销咨询",
+      "label": "核心服务"
+    },
+    {
+      "file": "pages/service-details.html",
+      "title": "谷歌SEO与排名优化服务｜关键词、内容与技术 - RankLab",
+      "description": "面向全球中文搜索需求的谷歌SEO与排名优化服务，提供关键词映射、网站技术审查、内容规划、内部链接及Search Console分析，以自然流量和有效询盘持续复盘。",
+      "h1": "谷歌SEO与谷歌排名优化服务",
+      "keywords": "谷歌排名,谷歌SEO,谷歌排名优化",
+      "label": "谷歌SEO与排名"
+    },
+    {
+      "file": "pages/project.html",
+      "title": "谷歌营销方案｜跨境电商、B2B与APP推广 - RankLab",
+      "description": "了解跨境电商、B2B询盘、APP增长和品牌推广的谷歌营销方案，按业务场景组合谷歌SEO、广告代投、开户、落地页与转化追踪服务。",
+      "h1": "面向全球业务的谷歌营销方案",
+      "keywords": "谷歌营销方案,跨境电商推广,B2B询盘",
+      "label": "服务方案"
+    },
+    {
+      "file": "pages/mission-vision.html",
+      "title": "服务理念｜数据透明的谷歌SEO与广告优化 - RankLab",
+      "description": "RankLab以真实业务目标、清晰数据与持续执行推进谷歌SEO和广告优化。区分自然排名与付费广告，按全球市场需求评估内容、预算和转化路径。",
+      "h1": "数据透明的谷歌SEO与广告服务理念",
+      "keywords": "数据透明,谷歌营销理念",
+      "label": "服务理念"
+    },
+    {
+      "file": "pages/testimonial.html",
+      "title": "服务保障｜谷歌广告与SEO交付标准 - RankLab",
+      "description": "了解谷歌广告代投与SEO服务的交付标准：账户权限确认、转化追踪、关键词与素材复盘、数据报告及沟通安排。以明确工作范围评估服务质量。",
+      "h1": "谷歌广告与SEO服务交付标准",
+      "keywords": "广告代投交付,SEO服务保障",
+      "label": "服务保障"
+    },
+    {
+      "file": "pages/work-process.html",
+      "title": "合作流程｜谷歌SEO、开户与广告代投 - RankLab",
+      "description": "谷歌SEO、谷歌开户与广告代投合作流程：业务诊断、资料与账户检查、关键词和预算规划、执行上线及持续复盘，面向全球市场明确每阶段交付内容。",
+      "h1": "谷歌SEO与广告代投合作流程",
+      "keywords": "谷歌代投流程,谷歌开户流程,SEO合作流程",
+      "label": "合作流程"
+    },
+    {
+      "file": "pages/contact.html",
+      "title": "联系RankLab｜谷歌SEO、广告代投与开户咨询",
+      "description": "通过Telegram联系RankLab，咨询谷歌SEO、谷歌排名、谷歌广告开户与代投服务。提供项目、目标市场、网站、预算和转化目标，获取适合全球业务的执行建议。",
+      "h1": "咨询谷歌SEO、谷歌开户与广告代投",
+      "keywords": "谷歌SEO咨询,谷歌代投咨询,谷歌开户咨询",
+      "label": "联系我们"
+    },
+    {
+      "file": "pages/blog-grid.html",
+      "title": "知识中心｜谷歌SEO、排名、开户与广告指南 - RankLab",
+      "description": "简体中文谷歌营销知识中心，解答谷歌排名优化、Google Ads开户、广告代投和转化追踪问题，帮助全球业务区分自然搜索与付费广告的执行路径。",
+      "h1": "谷歌SEO与广告知识中心",
+      "keywords": "谷歌SEO指南,谷歌广告指南",
+      "label": "知识中心"
+    },
+    {
+      "file": "pages/blog-details.html",
+      "title": "谷歌排名怎么优化？全球中文网站SEO执行指南 - RankLab",
+      "description": "谷歌排名优化指南：区分自然搜索与谷歌广告，按目标市场规划中文关键词，检查抓取、索引、内容、内部链接和转化数据，建立可持续的谷歌SEO执行计划。",
+      "h1": "谷歌排名怎么优化：全球中文网站SEO指南",
+      "keywords": "谷歌排名怎么优化,谷歌SEO指南",
+      "label": "谷歌排名优化指南"
+    },
+    {
+      "file": "pages/google-account-guide.html",
+      "title": "谷歌开户需要什么资料？Google Ads申请指南 - RankLab",
+      "description": "谷歌开户资料与流程指南，说明广告主信息、网站、访问权限、结算和验证准备，并解答已有Google Ads账户是否可以直接委托广告代投。",
+      "h1": "谷歌开户需要什么资料与流程",
+      "keywords": "谷歌开户资料,谷歌开户流程",
+      "label": "谷歌开户资料指南"
+    },
+    {
+      "file": "pages/google-ads-guide.html",
+      "title": "谷歌广告怎么选？搜索、展示与YouTube投放指南 - RankLab",
+      "description": "了解搜索、展示、YouTube、购物和效果广告的适用场景，围绕目标市场、预算、关键词、落地页与有效转化选择谷歌广告代投策略。",
+      "h1": "谷歌广告类型与代投策略怎么选",
+      "keywords": "谷歌广告类型,谷歌广告策略",
+      "label": "谷歌广告类型指南"
+    }
+  ]
+}
