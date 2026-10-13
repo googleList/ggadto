@@ -1,5 +1,4 @@
 
-/* Local fixes: carousel navigation and missing icon-font fallbacks */
 .owl-carousel .owl-nav .owl-prev,
 .owl-carousel .owl-nav .owl-next {
   display: inline-flex !important;
@@ -31,8 +30,6 @@
 .owl-carousel .owl-nav .owl-next::after { content: "→"; }
 .owl-carousel .owl-nav .owl-prev span,
 .owl-carousel .owl-nav .owl-next span { display: none !important; }
-
-/* Keep decorative button layers exactly as wide as their variable labels. */
 .header-contact-btn a::before,
 .style-three .section-btn a::before {
   width: 100% !important;
@@ -43,8 +40,6 @@
 }
 .bi-arrow-left::before { content: "‹"; font-family: Arial, sans-serif !important; }
 .bi-arrow-right::before { content: "›"; font-family: Arial, sans-serif !important; }
-
-/* Stable fallback icons: the captured template does not include its webfont files. */
 .bi,
 .fa, .fas, .far, .fab, .fa-solid, .fa-regular, .fa-brands {
   font-family: Arial, sans-serif !important;
@@ -116,8 +111,6 @@
 .details-social-icon a i,
 .blog-details-social-icon a i { width: 1.1em; height: 1.1em; }
 .fa-linkedin-in::before { font-size: .72em; }
-
-/* Font-independent header dropdown caret and consistent menu spacing. */
 .menu-caret {
   display: inline-block;
   width: 7px;
@@ -141,16 +134,12 @@
   .header-area .header-menu > ul > li { margin-right: 8px; }
   .header-area .header-menu > ul > li > a { font-size: 13px; }
 }
-
-/* The original scroll-to-top arrow also depended on the missing icon font. */
 .prgoress_indicator::after {
   content: "↑" !important;
   font-family: Arial, sans-serif !important;
   line-height: 46px !important;
 }
 .prgoress_indicator::before { content: none !important; }
-
-/* Persistent Telegram customer-service shortcut */
 .tg-customer-service {
   position: fixed;
   right: 24px;
@@ -193,8 +182,6 @@
   }
   .tg-customer-service span { display: none; }
 }
-
-/* Detailed advertising-service cards */
 .service-solutions-intro {
   max-width: 880px;
   margin: 0 auto 54px;
@@ -251,8 +238,6 @@
   .service-solutions-intro p { font-size: 16px; }
   .service-solutions-grid .sercvie-title p { min-height: 0; }
 }
-
-/* Platform-specific managed advertising and account-opening page */
 .ad-platform-grid > [id] {
   scroll-margin-top: 120px;
 }
@@ -288,8 +273,6 @@
   .ad-platform-grid > [id] { scroll-margin-top: 84px; }
   .ad-platform-card .sercvie-title p { min-height: 0; }
 }
-
-/* Media-channel directory and independent platform pages */
 .media-channel-intro {
   max-width: 800px;
   margin: 0 auto 48px;
@@ -504,8 +487,6 @@
   .platform-detail-hero p { font-size: 16px; }
   .platform-service-band { padding: 30px 24px; }
 }
-
-/* Footer partner links */
 .footer-friend-links {
   margin-top: 46px;
   padding: 28px 0 30px;
@@ -535,8 +516,6 @@
   .footer-friend-links { margin-top: 28px; }
   .footer-friend-links-list { gap: 9px 16px; }
 }
-
-/* Functional footer share links */
 .footer-share-list a {
   position: relative;
 }
@@ -577,8 +556,6 @@
   line-height: 1;
   transform: rotate(-18deg);
 }
-
-/* Semantic headings and readable SEO content use the existing design system. */
 .breadcumb-content h1 {
   color: #0d1718;
   font-size: 46px;
@@ -609,6 +586,100 @@
 .seo-footer-links a { color: #16834e; }
 .seo-inactive-form { pointer-events: none; }
 .seo-footer-guide a { color: #a6ecad; font-size: 15px; }
+.account-faq-intro { margin-bottom: 32px; }
+.account-faq-meta { color: #7b8581; font-size: 14px; }
+.account-faq-item {
+  margin: 0 0 25px;
+  padding: 28px;
+  border: 1px solid rgba(13, 23, 24, .08);
+  border-radius: 20px;
+  background: #fff;
+  scroll-margin-top: 116px;
+}
+.seo-content .account-faq-item h2 {
+  display: flex;
+  align-items: baseline;
+  gap: 14px;
+  font-size: 24px;
+  margin-bottom: 18px;
+}
+.account-faq-number {
+  flex: 0 0 auto;
+  color: #16834e;
+  font-size: 19px;
+  font-weight: 700;
+}
+.account-faq-answer { color: #16834e; }
+.seo-content .account-faq-source { font-size: 13px; margin-bottom: 0; color: #7b8581; }
+.account-faq-toc {
+  margin-bottom: 26px;
+  padding: 26px;
+  border: 1px solid rgba(13, 23, 24, .08);
+  border-radius: 20px;
+  background: #fff;
+}
+.account-faq-toc h2 { font-size: 23px; margin-bottom: 20px; }
+.account-faq-toc a { display: flex; gap: 10px; margin-bottom: 16px; color: #596763; font-size: 14px; line-height: 1.7; }
+.account-faq-toc a:hover { color: #16834e; }
+.account-faq-toc a span { color: #16834e; min-width: 28px; font-weight: 700; }
+.account-faq-reminder { padding: 28px; border-radius: 20px; background: #edf9f2; }
+.seo-content .account-faq-reminder h2 { font-size: 25px; }
+.account-faq-reminder p:last-child { margin-bottom: 0; }
+@media(max-width:767px) {
+  .account-faq-item { padding: 22px 18px; scroll-margin-top: 85px; }
+  .seo-content .account-faq-item h2 { font-size: 21px; gap: 10px; }
+  .account-faq-reminder { padding: 24px 20px; }
+  .account-faq-breadcrumb h1 { font-size: 26px; }
+}
+.self-ads-intro { margin-bottom: 38px; }
+.self-ads-step { margin-bottom: 54px; scroll-margin-top: 116px; }
+.seo-content .self-ads-step h2 { font-size: 29px; line-height: 1.45; }
+.self-ads-update { margin: 24px 0; padding: 24px; border-radius: 18px; background: #edf9f2; border-left: 4px solid #59d98e; }
+.seo-content .self-ads-update h2,
+.seo-content .self-ads-update h3 { font-size: 21px; margin: 0 0 14px; }
+.self-ads-update p:last-child { margin-bottom: 0; }
+.self-ads-figure { max-width: 640px; margin: 28px auto 0; }
+.self-ads-figure img { display: block; width: 100%; height: auto; border: 1px solid rgba(13,23,24,.08); border-radius: 16px; background: #f7f4e5; }
+.self-ads-figure figcaption { margin-top: 12px; color: #76827d; font-size: 13px; line-height: 1.7; }
+.seo-content .self-ads-reference { font-size: 13px; line-height: 1.7; color: #76827d; }
+.self-ads-toc { margin-bottom: 26px; padding: 26px; border: 1px solid rgba(13,23,24,.08); border-radius: 20px; background: #fff; }
+.self-ads-toc h2 { font-size: 23px; margin-bottom: 22px; }
+.self-ads-toc a { display: flex; gap: 12px; margin-bottom: 15px; color: #596763; font-size: 14px; line-height: 1.65; }
+.self-ads-toc a:hover { color: #16834e; }
+.self-ads-toc a span { color: #16834e; font-weight: 700; flex: 0 0 25px; }
+.self-ads-card-image { width: 100%; height: 205px; object-fit: cover; object-position: center; }
+.gmc-sop-table { width: 100%; border-collapse: collapse; font-size: 15px; line-height: 1.75; }
+.gmc-sop-table th, .gmc-sop-table td { padding: 15px; border: 1px solid #dfebe4; text-align: left; vertical-align: top; overflow-wrap: anywhere; }
+.gmc-sop-table th { background: #edf9f2; color: #0d1718; font-weight: 700; }
+.gmc-sop-table tbody tr:nth-child(even) { background: #f9fcfa; }
+.gmc-table-wrapper { max-width: 100%; overflow-x: auto; margin: 25px 0; border-radius: 12px; }
+.gmc-sop-figure { margin: 28px 0; }
+.gmc-sop-figure img { display: block; width: 100%; height: auto; border: 1px solid #dfebe4; border-radius: 16px; }
+.gmc-sop-figure figcaption { margin-top: 10px; color: #76827d; font-size: 13px; line-height: 1.7; }
+.gmc-sop-guide code { white-space: normal; overflow-wrap: anywhere; color: #16834e; }
+.gmc-sop-sources { margin-top: 35px; font-size: 14px; }
+.bidding-update-cover { max-width: 480px; margin: 28px auto; }
+.bidding-update-cover img { display: block; width: 100%; height: auto; border-radius: 18px; }
+.bidding-update-card { width: 100%; height: 235px; object-fit: cover; object-position: center 25%; }
+.bidding-update-breadcrumb h1 { max-width: 1050px; margin-left: auto; margin-right: auto; font-size: clamp(26px, 3.2vw, 42px); text-wrap: balance; }
+.bidding-update-guide code { white-space: normal; overflow-wrap: anywhere; }
+@media(max-width:767px) { .bidding-update-breadcrumb h1 { font-size: 26px; } }
+@media(max-width:991px) {
+  .self-ads-layout > aside { order: -1; margin: 0 0 30px; }
+  .self-ads-layout > aside .seo-related-links { display: none; }
+  .self-ads-toc { display: grid; grid-template-columns: 1fr 1fr; column-gap: 18px; }
+  .self-ads-toc h2 { grid-column: 1 / -1; }
+}
+@media(max-width:767px) {
+  .self-ads-breadcrumb h1 { font-size: 26px; }
+  .self-ads-step { margin-bottom: 38px; scroll-margin-top: 85px; }
+  .seo-content .self-ads-step h2 { font-size: 24px; }
+  .self-ads-toc { padding: 22px 18px; }
+  .self-ads-toc a { font-size: 13px; gap: 7px; }
+  .self-ads-toc a span { flex-basis: 20px; }
+  .self-ads-update { padding: 20px; }
+  .self-ads-figure { margin-top: 22px; }
+}
 @media (max-width: 767px) {
   .breadcumb-content h1 { font-size: 28px; }
   .seo-content-section { padding: 36px 0; }
@@ -616,8 +687,6 @@
   .seo-content { font-size: 16px; }
   .seo-guide aside { margin-top: 30px; }
 }
-
-/* Preserve typography after semantic heading normalization. */
 .style-one h2.seo-former-h1.hero-title{font-size:73px;line-height:85px;color:#0d1718;font-weight:500;margin:32px 0 27px}
 .style-two h2.seo-former-h1.hero-title{font-size:70px;line-height:103px;color:#fff;font-weight:600;font-family:"Unbounded";margin:0;text-transform:uppercase}
 .style-two h2.seo-former-h1.hero-title span{display:inline-block;margin:0 17px 0 20px;width:70px;height:70px;border-radius:35px;background-color:#fbc267;position:revert;position:relative;top:8px}
@@ -627,3 +696,21 @@
 .case-study-title h2.seo-former-h1 a{color:#fff;margin:0;font-size:22px;transition:.5s;font-family:"Unbounded",sans-serif}
 .case-study-single-box:hover .case-study-title h2.seo-former-h1 a{color:#59d98e}
 @media(max-width:767px){.style-three h2.hero-title.seo-former-h1{font-size:25px;line-height:35px}.section-title h2.seo-former-h1{font-size:25px;line-height:1.5}}
+.benchmark-cover { margin: 28px 0 40px; }
+.benchmark-cover img { display: block; width: 100%; height: auto; border-radius: 12px; }
+.benchmark-cover figcaption { margin-top: 12px; color: #666; font-size: 14px; line-height: 1.7; }
+.benchmark-table { min-width: 650px; }
+.benchmark-table caption { caption-side: top; padding: 14px; color: #333; }
+.seo-article-image.benchmark-card { object-fit: contain; background: #f5f7f8; }
+.platform-info-card > img.seo-article-image {
+  display: block;
+  width: 100%;
+  height: 235px;
+  object-fit: contain;
+  object-position: center;
+  background: #f5f7f8;
+}
+.industry-showcase .industry-grid { max-width: 1400px; margin: 0 auto; }
+.industry-showcase .case-study-thumb img { width: 100%; height: auto; aspect-ratio: 1 / 1; object-fit: cover; }
+.industry-showcase .case-study-single-box { margin-bottom: 30px; }
+.blog-area.style-three .single-blog-thumb img { display: block; width: 100%; height: 270px; object-fit: contain; object-position: center; background: #f5f7f8; }
