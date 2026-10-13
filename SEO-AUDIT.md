@@ -1,10 +1,10 @@
-# RankLab 全站SEO审查与修复记录
+# 大赞广告 全站SEO审查与修复记录
 
 日期：2026年10月12日
 
 正式域名：https://chaudizhi.com/
 
-范围：本地项目原17页，新增3页，合计20页。面向全球市场，语言为简体中文（zh-CN）。当前完成本地修改与验证，未上传到正式服务器或提交Search Console。
+范围：2026年10月12日审查20页；10月13日新增开户问答、自投教程、Shopify/GMC商品SOP、目标值出价评论、2026广告基准解读、PMax扩量经验、新手搜索广告流程、Perplexity GEO工作流、独立站SEO详解、AI内容质控流程及Gemini辅助SEO，当前合计31页。面向全球市场，语言为简体中文（zh-CN）。当前完成本地修改与验证，未上传到正式服务器或提交Search Console。
 
 ## 搜索需求与页面分工
 
@@ -30,6 +30,18 @@
 | pages/blog-details.html | 谷歌排名怎么优化、全球中文网站SEO指南 |
 | pages/google-account-guide.html | 谷歌开户资料、谷歌开户流程 |
 | pages/google-ads-guide.html | 谷歌广告类型、谷歌广告策略 |
+| pages/google-ads-account-faq.html | 谷歌Ads开户、谷歌广告开户常见问题；10个高频问答 |
+| pages/google-ads-self-managed-guide.html | 自投Google Ads、谷歌广告自投、Google Ads投放教程；13步图文指南 |
+| pages/shopify-google-gmc-product-sop.html | Shopify上传产品、Google GMC、商品Feed优化；产品发布与同步SOP |
+| pages/google-ads-august-17-bidding-update.html | Google Ads 8.17新规、tCPA、tROAS、预算受限；目标值出价更新评论 |
+
+目标值出价评论更新：保留用户提供的标题、封面与批评态度，核对2026年8月17日变更说明及官方FAQ，将作者担忧与假设示例同官方适用范围区分。新增知识中心入口和sitemap URL，24页静态检查通过，新页桌面预览无控制台报错或横向溢出。
+
+Shopify/GMC文章更新：按用户提供的11页PDF整理10个章节、5张对照表与2张原始截图，保留Tyson署名及用户指定结语；区分SEO元描述与商品描述、内部标签与目标市场设置。知识中心、结构化数据和站点地图同步更新，23页静态检查通过，新页桌面预览无横向溢出或控制台报错。
+
+自投教程更新：13张原始截图复制到assets/images/articles/google-ads-self-managed/，按01–13操作顺序与含义命名；原临时附件保留。每图对应正文、alt及图注，并提供原图查看链接。内容补齐转化追踪、预算和复盘，依据官方资料说明语言匹配调整、新客识别和GA4关键事件区别；知识中心、相关内链、Article结构化数据与站点地图已更新。
+
+2026年10月13日更新：新增问答文章、知识中心卡片、相关开户页内链及站点地图URL；问答保留用户提供的10题结构，根据Google官方资料修正PMax/GMC、代理协助、验证时间与风控的绝对表述。新文章通过桌面和390px移动端显示检查，目录锚点可定位到对应问题；21页静态SEO检查通过。
 
 完整标题、描述及关键词映射见 SEO-PAGE-PLAN.json。关键词分配是页面规划，不是搜索量统计或已取得排名的证明。
 
