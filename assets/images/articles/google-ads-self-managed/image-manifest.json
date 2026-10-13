@@ -1,0 +1,80 @@
+[
+  {
+    "order": 1,
+    "original": "codex-clipboard-892bf08c-80e9-4002-9579-34f879f10e7f.jpg",
+    "filename": "google-ads-01-create-campaign.jpg",
+    "caption": "进入账户并创建广告系列"
+  },
+  {
+    "order": 2,
+    "original": "codex-clipboard-330b550b-085a-4e89-a9ca-b15db0d262c7.jpg",
+    "filename": "google-ads-02-campaign-structure.jpg",
+    "caption": "理解广告系列与广告组结构"
+  },
+  {
+    "order": 3,
+    "original": "codex-clipboard-ef380ecb-4f1a-4ec7-8c8d-814df30cb2e5.jpg",
+    "filename": "google-ads-03-business-objective.jpg",
+    "caption": "根据业务选择广告系列目标"
+  },
+  {
+    "order": 4,
+    "original": "codex-clipboard-2a2a6e5e-a0fb-4809-a492-ef09879aec0c.jpg",
+    "filename": "google-ads-04-conversion-goals.jpg",
+    "caption": "核对询盘表单与WhatsApp转化目标"
+  },
+  {
+    "order": 5,
+    "original": "codex-clipboard-56898425-fc0d-4e4b-8118-a9c9f80e20a7.jpg",
+    "filename": "google-ads-05-campaign-type.jpg",
+    "caption": "选择搜索广告或其他广告类型"
+  },
+  {
+    "order": 6,
+    "original": "codex-clipboard-f93278fc-4c8c-4986-82bc-edc2bf02c2a1.jpg",
+    "filename": "google-ads-06-lead-method.jpg",
+    "caption": "确认潜在客户表单等获客方式"
+  },
+  {
+    "order": 7,
+    "original": "codex-clipboard-eb7d3403-f4fd-405a-850c-7163e05f2513.jpg",
+    "filename": "google-ads-07-campaign-name.jpg",
+    "caption": "用统一规则命名广告系列"
+  },
+  {
+    "order": 8,
+    "original": "codex-clipboard-b9818337-178f-4a96-b4ac-d6527d736b69.jpg",
+    "filename": "google-ads-08-bidding-acquisition.jpg",
+    "caption": "配置出价与新客户获取选项"
+  },
+  {
+    "order": 9,
+    "original": "codex-clipboard-9b086027-64e0-4da4-bc11-a0e364b50dae.jpg",
+    "filename": "google-ads-09-network-location-language.jpg",
+    "caption": "设置网络、目标地区与语言策略"
+  },
+  {
+    "order": 10,
+    "original": "codex-clipboard-ac45757d-fff2-4631-9212-cfa1a9c6d9fa.jpg",
+    "filename": "google-ads-10-audience-observation.jpg",
+    "caption": "区分受众定位与观察模式"
+  },
+  {
+    "order": 11,
+    "original": "codex-clipboard-1a1948ae-4837-4ef9-bebd-ca6369c17055.jpg",
+    "filename": "google-ads-11-ad-group-keywords.jpg",
+    "caption": "填写广告组关键词与落地页"
+  },
+  {
+    "order": 12,
+    "original": "codex-clipboard-83a536b0-aa5a-42b6-8bc8-035c60d3bfc9.jpg",
+    "filename": "google-ads-12-responsive-ad-budget.jpg",
+    "caption": "创建自适应搜索广告并设置预算"
+  },
+  {
+    "order": 13,
+    "original": "codex-clipboard-4b846914-4cb0-4ac4-8ce5-60901ae0654c.jpg",
+    "filename": "google-ads-13-ga4-performance-review.jpg",
+    "caption": "用GA4数据复盘广告与业务转化"
+  }
+]
