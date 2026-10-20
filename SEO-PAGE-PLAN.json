@@ -281,6 +281,24 @@
       "keywords": "谷歌排名优化,Gemini SEO,独立站SEO,关键词优化,Schema检查",
       "label": "Gemini独立站SEO",
       "primaryKeyword": "谷歌排名优化"
+    },
+    {
+      "file": "pages/google-ads-management-fees.html",
+      "title": "谷歌代投怎么收费？广告费、服务费与报价核对清单",
+      "description": "谷歌代投费用怎么核对？区分Google Ads广告消耗、代投管理费和素材追踪等执行费用，了解报价范围、账户查看权限及合作前应确认的问题。",
+      "keywords": "谷歌代投收费,谷歌代投费用,谷歌广告代投价格,Google Ads管理费",
+      "label": "代投费用核对",
+      "h1": "谷歌代投怎么收费？广告费、服务费与报价核对清单",
+      "primaryKeyword": "谷歌代投收费"
+    },
+    {
+      "file": "pages/google-ads-self-vs-managed.html",
+      "title": "谷歌代投还是自己投放？按团队、数据与工作范围选择",
+      "description": "谷歌广告自投与代投怎么选？从时间投入、账户权限、转化追踪、素材和效果复盘比较两种方式，附选择服务商及合作前的核对清单。",
+      "keywords": "谷歌代投还是自投,谷歌广告自投,谷歌代投服务商,Google Ads代运营",
+      "label": "自投与代投选择",
+      "h1": "谷歌代投还是自己投放？按团队、数据与工作范围选择",
+      "primaryKeyword": "谷歌代投还是自投"
     }
   ],
   "keywordStrategy": {

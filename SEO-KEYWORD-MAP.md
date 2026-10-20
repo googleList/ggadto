@@ -1,10 +1,8 @@
 # 垂直关键词与页面分工
 
-执行日期：2026-10-13；简体中文，面向全球。保留站名与Logo，全站Title移除品牌后缀。
+更新：2026-10-15。主承接页：谷歌代投 → google-ads.html；谷歌开户 → google-account.html；谷歌排名 → service-details.html。标题不使用品牌后缀，支持文章解决独立问题。
 
-核心交易词各有主承接页：谷歌代投 → google-ads.html；谷歌开户 → google-account.html；谷歌排名 → service-details.html。文章承接资料、操作、指标与优化问题，相关内链连接服务页；非Google平台不强塞谷歌词。
-
-| 页面 | 主题关键词 | Title |
+| 页面 | 主题 | Title |
 | --- | --- | --- |
 | index.html | 谷歌代投 | 谷歌代投、谷歌开户与谷歌排名优化服务 |
 | pages/about.html | 谷歌代投服务商 | 谷歌代投与排名优化团队｜服务范围与执行方式 |
@@ -37,5 +35,7 @@
 | pages/independent-site-seo-guide.html | 独立站谷歌排名 | 独立站谷歌排名优化｜关键词与产品页SEO详解 |
 | pages/ai-seo-blog-content-workflow.html | 谷歌排名内容优化 | 谷歌排名内容优化｜AI写SEO博客九步质控 |
 | pages/gemini-seo-independent-site.html | 谷歌排名优化 | 谷歌排名优化助手｜Gemini辅助独立站SEO |
+| pages/google-ads-management-fees.html | 谷歌代投收费 | 谷歌代投怎么收费？广告费、服务费与报价核对清单 |
+| pages/google-ads-self-vs-managed.html | 谷歌代投还是自投 | 谷歌代投还是自己投放？按团队、数据与工作范围选择 |
 
-仅完成本地优化。未登录Search Console、未部署、未提交索引；不虚构关键词搜索量或排名表现。meta keywords不影响Google排名，重要的是页面内容与搜索意图匹配。
+本轮新增费用核对、自投与代投选择两篇指南。GSC连接列表尚无chaudizhi.com，未核实排名及收录；未对外发帖或购买广告。
