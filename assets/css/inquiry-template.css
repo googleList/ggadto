@@ -1,0 +1,12 @@
+#project-brief h2{font-size:clamp(24px,2.5vw,32px);line-height:1.4}
+#project-brief .inquiry-template-label{display:block;margin:24px 0 10px;font-size:18px;font-weight:600;color:#0c191c}
+#project-brief .inquiry-template-field{display:block;box-sizing:border-box;width:100%;max-width:100%;min-height:320px;padding:16px;border:1px solid #677772;border-radius:12px;background:#fff;color:#0c191c;font:inherit;font-size:16px;line-height:1.75;resize:vertical}
+#project-brief .inquiry-template-help{margin:12px 0 16px;color:#42514c;font-size:15px;line-height:1.75}
+#project-brief .inquiry-copy-button{display:inline-flex;align-items:center;justify-content:center;min-height:48px;padding:12px 22px;border:1px solid #0c191c;border-radius:999px;background:#0c191c;color:#fff;font:inherit;font-size:16px;font-weight:600;line-height:1.5;white-space:nowrap;cursor:pointer}
+#project-brief .inquiry-copy-button[hidden]{display:none}
+#project-brief .inquiry-copy-button:hover{background:#243832}
+#project-brief .inquiry-copy-button:active{transform:translateY(1px)}
+#project-brief .inquiry-copy-button:disabled{cursor:wait}
+#project-brief .inquiry-copy-button:focus-visible,#project-brief .inquiry-template-field:focus-visible{outline:3px solid #0c191c;outline-offset:3px}
+#project-brief .inquiry-copy-status{min-height:3.5em;margin:12px 0 20px;color:#263b32;font-size:15px;line-height:1.75;overflow-wrap:anywhere}
+@media(max-width:767px){#project-brief .inquiry-template-field{min-height:360px;padding:12px}}
