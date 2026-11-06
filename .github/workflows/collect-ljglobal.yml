@@ -1,0 +1,64 @@
+name: Collect ljglobal topics every three days
+
+on:
+  schedule:
+    - cron: '17 3 * * *'
+  workflow_dispatch:
+    inputs:
+      force:
+        description: 'Collect now even if the 72-hour interval has not elapsed'
+        type: boolean
+        default: false
+  push:
+    branches: [main]
+    paths:
+      - '.github/collectors/**'
+      - '.github/workflows/collect-ljglobal.yml'
+
+permissions:
+  contents: read
+
+concurrency:
+  group: ljglobal-topic-collection
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    if: github.repository == 'googleList/ggadto'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+    steps:
+      - name: Check out source
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
+        with:
+          persist-credentials: false
+      - name: Run offline collector tests
+        run: python3 -m unittest discover -s .github/collectors -p 'test_*.py' -v
+      - name: Check interval and collect public RSS metadata
+        id: collect
+        env:
+          GH_TOKEN: ${{ github.token }}
+          FORCE_COLLECT: ${{ inputs.force || false }}
+        shell: bash
+        run: |
+          args=()
+          if [ "$FORCE_COLLECT" = "true" ]; then args+=(--force); fi
+          python3 .github/collectors/ljglobal.py --out "$RUNNER_TEMP/ljglobal-output" "${args[@]}"
+      - name: Save review inbox as workflow artifact
+        if: steps.collect.outputs.collected == 'true'
+        uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9
+        with:
+          name: ljglobal-topics-${{ github.run_id }}
+          path: |
+            ${{ runner.temp }}/ljglobal-output/topics.json
+            ${{ runner.temp }}/ljglobal-output/topics.rss
+            ${{ runner.temp }}/ljglobal-output/report.json
+          retention-days: 90
+          if-no-files-found: error
+      - name: Persist deduplication cursor only after artifact upload succeeds
+        if: steps.collect.outputs.collected == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python3 .github/collectors/ljglobal.py --out "$RUNNER_TEMP/ljglobal-output" --commit-state
