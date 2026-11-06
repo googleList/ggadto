@@ -711,6 +711,7 @@
   background: #f5f7f8;
 }
 .industry-showcase .industry-grid { max-width: 1400px; margin: 0 auto; }
+.industry-showcase .section-title p.industry-service-scope { color: #d7e4df; }
 .industry-showcase .case-study-thumb img { width: 100%; height: auto; aspect-ratio: 1 / 1; object-fit: cover; }
 .industry-showcase .case-study-single-box { margin-bottom: 30px; }
 .blog-area.style-three .single-blog-thumb img { display: block; width: 100%; height: 270px; object-fit: contain; object-position: center; background: #f5f7f8; }
