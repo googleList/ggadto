@@ -1,0 +1,11 @@
+{
+  "enabled": true,
+  "authorization_confirmed_by_user": true,
+  "confirmation_date": "2026-11-06",
+  "full_text": true,
+  "original_images": true,
+  "public_source_credit": false,
+  "source_host": "www.ljglobal.cn",
+  "image_hosts": ["www.ljglobal.cn", "lingjuimg.com"],
+  "max_articles_per_run": 10
+}

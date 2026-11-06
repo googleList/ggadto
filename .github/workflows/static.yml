@@ -8,6 +8,13 @@ on:
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
+  workflow_call:
+    inputs:
+      ref:
+        description: Website commit to deploy
+        type: string
+        required: false
+        default: main
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
@@ -31,6 +38,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          ref: ${{ inputs.ref || 'main' }}
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Upload artifact

@@ -1,4 +1,4 @@
-name: Collect ljglobal topics every three days
+name: Publish authorized ljglobal articles every three days
 
 on:
   schedule:
@@ -14,6 +14,7 @@ on:
     paths:
       - '.github/collectors/**'
       - '.github/workflows/collect-ljglobal.yml'
+      - '.github/workflows/static.yml'
 
 permissions:
   contents: read
@@ -29,6 +30,12 @@ jobs:
     timeout-minutes: 10
     permissions:
       contents: write
+    outputs:
+      collected: ${{ steps.collect.outputs.collected }}
+      published_sha: ${{ steps.collect.outputs.published_sha }}
+      expected_state_sha: ${{ steps.collect.outputs.expected_state_sha }}
+      collection_time: ${{ steps.collect.outputs.collection_time }}
+      has_failures: ${{ steps.collect.outputs.has_failures }}
     steps:
       - name: Check out source
         uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
@@ -36,7 +43,7 @@ jobs:
           persist-credentials: false
       - name: Run offline collector tests
         run: python3 -m unittest discover -s .github/collectors -p 'test_*.py' -v
-      - name: Check interval and collect public RSS metadata
+      - name: Collect licensed full articles and original images, then commit website files
         id: collect
         env:
           GH_TOKEN: ${{ github.token }}
@@ -45,20 +52,43 @@ jobs:
         run: |
           args=()
           if [ "$FORCE_COLLECT" = "true" ]; then args+=(--force); fi
-          python3 .github/collectors/ljglobal.py --out "$RUNNER_TEMP/ljglobal-output" "${args[@]}"
-      - name: Save review inbox as workflow artifact
-        if: steps.collect.outputs.collected == 'true'
+          python3 .github/collectors/publish_ljglobal.py --out "$RUNNER_TEMP/ljglobal-output" "${args[@]}"
+      - name: Save publication report
+        if: always()
         uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9
         with:
-          name: ljglobal-topics-${{ github.run_id }}
-          path: |
-            ${{ runner.temp }}/ljglobal-output/topics.json
-            ${{ runner.temp }}/ljglobal-output/topics.rss
-            ${{ runner.temp }}/ljglobal-output/report.json
+          name: ljglobal-publication-${{ github.run_id }}
+          path: ${{ runner.temp }}/ljglobal-output/publication-report.json
           retention-days: 90
-          if-no-files-found: error
-      - name: Persist deduplication cursor only after artifact upload succeeds
-        if: steps.collect.outputs.collected == 'true'
+          if-no-files-found: warn
+  deploy:
+    needs: collect
+    if: needs.collect.outputs.collected == 'true'
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    uses: ./.github/workflows/static.yml
+    with:
+      ref: ${{ needs.collect.outputs.published_sha }}
+  finalize:
+    needs: [collect, deploy]
+    if: needs.collect.outputs.collected == 'true'
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: write
+    steps:
+      - name: Check out the deployed website version
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
+        with:
+          ref: ${{ needs.collect.outputs.published_sha }}
+          persist-credentials: false
+      - name: Advance the 72-hour cursor only after successful Pages deployment
         env:
           GH_TOKEN: ${{ github.token }}
-        run: python3 .github/collectors/ljglobal.py --out "$RUNNER_TEMP/ljglobal-output" --commit-state
+          EXPECTED_STATE_SHA: ${{ needs.collect.outputs.expected_state_sha }}
+          COLLECTION_TIME: ${{ needs.collect.outputs.collection_time }}
+          PUBLISHED_SHA: ${{ needs.collect.outputs.published_sha }}
+          HAS_FAILURES: ${{ needs.collect.outputs.has_failures }}
+        run: python3 .github/collectors/publish_ljglobal.py --finalize
