@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_success": "2026-11-06T01:06:40.146355Z",
+  "last_success": "2026-11-06T01:34:20.448400Z",
   "seen_ids": [
     "3030b65113b72286436154f7caff48e62667c076cadb8b859619cbfbdf52d5dc",
     "5cb0e3935ce6b5bdd3a0705eb8278a87a306148edcde90a58e075b46fd79a33f",
@@ -12,5 +12,7 @@
     "bfd1995f3be6d54a45630de256d3df64d4d7278d1995ccdef91370577989e943",
     "dc8db5e86fe1649a9b5120ea6004fd1b431259847d38edf2643c32e8d895dce8",
     "e4815856778c1eabe5838faf93b510d7f0b87aae8114e61888bfaa46979a0fc4"
-  ]
+  ],
+  "publication_mode": "authorized-full-v1",
+  "deployed_sha": "d8f49465ba77523ee5a43ae2d396471f3ae4813a"
 }
