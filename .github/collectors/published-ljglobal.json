@@ -205,6 +205,60 @@
       ],
       "imported_at": "2026-11-06T01:34:20.448400Z",
       "content_sha256": "98378b54a66f94d8798880a4d63350a1ab188b9c7e1e7f507eb40057898ff0b7"
+    },
+    "2632aa1f5786c4314356fe56cad623060cc50f8d60226e4a23d139f577ad8f0f": {
+      "id": "2632aa1f5786c4314356fe56cad623060cc50f8d60226e4a23d139f577ad8f0f",
+      "source_url": "https://www.ljglobal.cn/which-foreign-trade-enterprises-are-suitable-for-hefei-linkedin-agency-services/",
+      "title": "合肥LinkedIn代运营服务适合哪些外贸企业？",
+      "description": "合肥做光伏配件、汽车零部件或检测设备的外贸企业，常听到一句话：\"客户都在LinkedIn上，得做起来。\"接着就开始找代运营，拿到几份报价，内容看着差不多，价格却差一截。问题多半出在\"代运营\"这三个字太笼统。有人只负责发帖，有人只改公司主页，有人做的是主动找客户，三件事的工作量、技能和验收方式完全不同。所以先判",
+      "category": "资讯",
+      "published_at": "2026-11-06T10:35:18Z",
+      "file": "pages/which-foreign-trade-enterprises-are-suitable-for-hefei-linkedin-agency-services.html",
+      "images": [
+        {
+          "file": "assets/images/imported/ljglobal/fca6e5fa474d728e4c41a270.webp",
+          "sha256": "fca6e5fa474d728e4c41a27021a95914fa94e6a49f49d6e6fe4757a157729183",
+          "bytes": 9744
+        }
+      ],
+      "imported_at": "2026-11-09T03:53:11.817507Z",
+      "content_sha256": "4c76922864b62fe858f93157e4b1513a0bc993c28e8b3482287a15d09e6bf549"
+    },
+    "b09780fe2ea23816eff3801aa00c7d8eac31c37113298f1d249f9f752827d26c": {
+      "id": "b09780fe2ea23816eff3801aa00c7d8eac31c37113298f1d249f9f752827d26c",
+      "source_url": "https://www.ljglobal.cn/how-to-choose-an-overseas-social-media-operation-company-in-anhui-a-selection-guide-for-foreign-trade-enterprises/",
+      "title": "安徽海外社媒运营公司怎么选？外贸企业选型指南",
+      "description": "合肥一家做配件或成套设备的外贸企业，想找服务商运营海外社媒账号，拿到几份方案后发现：报价差距不小，方案里却都写着“全平台覆盖、粉丝稳步增长”。真正需要确认的是：服务商是否了解目标市场和采购人群？能不能持续产出专业内容？账号运营和数据报告是否透明？对B2B外贸企业来说，安徽海外社媒运营的价值不只是增加粉丝，更重",
+      "category": "资讯",
+      "published_at": "2026-11-06T10:32:17Z",
+      "file": "pages/how-to-choose-an-overseas-social-media-operation-company-in-anhui-a-selection-guide-for-foreign-trade-enterprises.html",
+      "images": [
+        {
+          "file": "assets/images/imported/ljglobal/fc6b74648cf08c393c39434c.webp",
+          "sha256": "fc6b74648cf08c393c39434c793dd58fa56492e2a9d876c0038d3fbbf02f22cb",
+          "bytes": 226264
+        }
+      ],
+      "imported_at": "2026-11-09T03:53:11.817507Z",
+      "content_sha256": "63df2547847ec59edba639ee9b4a5556eb7846e214ee845935e89349aa6d413b"
+    },
+    "05d63f2debbf37550c59245941e49ee326b0a57e226784e83133f24e9d5ce234": {
+      "id": "05d63f2debbf37550c59245941e49ee326b0a57e226784e83133f24e9d5ce234",
+      "source_url": "https://www.ljglobal.cn/what-is-the-difference-between-geo-and-seo-a-comparison-of-the-work-of-google-seo-and-geo-service-providers/",
+      "title": "GEO与SEO区别是什么？GoogleSEO和GEO服务商的工作对比",
+      "description": "找服务商时常碰到这样的情形：一家报SEO，一家报GEO，报价单摊开却像同一批活——技术体检、内容更新、外链、月度报告。于是问题来了，GoogleSEO与GEO区别到底在哪，要不要分开找两家？其实GEO不是另起炉灶。指的是让AI在回答问题时愿意提到你的品牌、并引用你的页面。它把搜索优化的场景往外扩了一层：从\"争",
+      "category": "GEO",
+      "published_at": "2026-11-06T02:56:14Z",
+      "file": "pages/what-is-the-difference-between-geo-and-seo-a-comparison-of-the-work-of-google-seo-and-geo-service-providers.html",
+      "images": [
+        {
+          "file": "assets/images/imported/ljglobal/53c45e6b24992c6ddcfbba8b.webp",
+          "sha256": "53c45e6b24992c6ddcfbba8b4402cdaecfb8fd5ca712ab617357fc0a618e2b3f",
+          "bytes": 219250
+        }
+      ],
+      "imported_at": "2026-11-09T03:53:11.817507Z",
+      "content_sha256": "7cf378c26575fc709fc0476f4eba8321135d868ea614832664009dab742bb922"
     }
   }
 }
