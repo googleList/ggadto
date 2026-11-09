@@ -366,8 +366,20 @@ def update_home(source, entries):
     carousel = tree.find(lambda n: n.has_class('blog-list-3'))
     if not carousel:
         raise ValueError('Homepage latest-articles module no longer matches')
-    records = sorted(entries, key=lambda r: (r['published_at'], r['imported_at']), reverse=True)[:4]
-    return replace_ranges(source, [(carousel.inner_start, carousel.inner_end, ''.join(card(r, True) for r in records))])
+    candidates = {}
+    for node in carousel.children:
+        if not isinstance(node, Node):
+            continue
+        heading = node.find(lambda n: n.tag == 'h3')
+        link = heading.find(lambda n: n.tag == 'a') if heading else None
+        date_node = node.find(lambda n: n.tag == 'h6')
+        stamp = date_node.text().strip() if date_node else ''
+        if link and re.fullmatch(r'\d{4}-\d{2}-\d{2}', stamp):
+            candidates[link.attrs.get('href')] = (stamp, '', source[node.start:node.end])
+    for record in entries:
+        candidates[record['file']] = (record['published_at'][:10], record['imported_at'], card(record, True))
+    newest = sorted(candidates.values(), key=lambda value: value[:2], reverse=True)[:4]
+    return replace_ranges(source, [(carousel.inner_start, carousel.inner_end, ''.join(value[2] for value in newest))])
 
 
 def update_sitemap(source, records, date):

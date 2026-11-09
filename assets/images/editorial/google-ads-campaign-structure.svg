@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+<title id="title">Google Ads campaign planning</title><desc id="desc">One business goal branches into campaign budget, ad group themes and reporting dimensions.</desc>
+<rect width="1200" height="675" fill="#f1f7f3"/><rect x="52" y="48" width="1096" height="579" rx="30" fill="#113c30"/>
+<text x="100" y="130" fill="#b7e3c2" font-family="Arial,sans-serif" font-size="22" letter-spacing="4">GOOGLE ADS / ACCOUNT PLANNING</text>
+<text x="100" y="210" fill="#fff" font-family="Arial,sans-serif" font-size="52" font-weight="700">Structure follows the goal.</text>
+<rect x="420" y="260" width="360" height="82" rx="14" fill="#d7f5ab"/><text x="600" y="311" text-anchor="middle" fill="#113c30" font-family="Arial,sans-serif" font-size="28" font-weight="700">BUSINESS GOAL</text>
+<path d="M600 342V381M265 417V381H935V417M600 381V417" stroke="#8dbca3" stroke-width="3" fill="none"/>
+<g fill="#fff"><rect x="115" y="417" width="300" height="137" rx="14"/><rect x="450" y="417" width="300" height="137" rx="14"/><rect x="785" y="417" width="300" height="137" rx="14"/></g>
+<g fill="#113c30" font-family="Arial,sans-serif" text-anchor="middle"><g font-size="26" font-weight="700"><text x="265" y="470">CAMPAIGNS</text><text x="600" y="470">AD GROUPS</text><text x="935" y="470">REPORTS</text></g><g font-size="20"><text x="265" y="512">Budget &amp; settings</text><text x="600" y="512">Themes &amp; relevance</text><text x="935" y="512">Compare &amp; learn</text></g></g>
+</svg>

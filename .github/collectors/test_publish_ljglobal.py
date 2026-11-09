@@ -167,6 +167,18 @@ class PublicationTests(unittest.TestCase):
         self.assertIn('pages/example-6.html', result)
         self.assertNotIn('pages/example-0.html', result)
 
+    def test_home_preserves_newer_original_article_without_duplicates(self):
+        original = {'title': 'Original guide', 'description': 'Original', 'category': 'Ads',
+                    'published_at': '2026-11-09', 'file': 'pages/original.html', 'images': []}
+        imported = dict(original, title='Imported guide', published_at='2026-11-05T10:00:00Z',
+                        file='pages/imported.html', imported_at=DATE)
+        source = '<div class="blog-list-3">' + P.card(original, True) + P.card(imported, True) + '</div>'
+        result = P.update_home(source, [imported])
+        carousel = P.Tree(result).root.find(lambda n: n.has_class('blog-list-3'))
+        self.assertEqual(len(carousel.all(lambda n: n.has_class('single-blog-box'))), 2)
+        self.assertLess(result.index('Original guide'), result.index('Imported guide'))
+        self.assertEqual(len(carousel.all(lambda n: n.tag == 'h3' and 'Imported guide' in n.text())), 1)
+
     def test_no_source_body_content_in_manifest(self):
         files, _, _, _ = P.build_stage(self.repo, [ITEM], FakeReader(), DATE)
         manifest = json.loads(files[P.MANIFEST])
