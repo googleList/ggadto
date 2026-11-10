@@ -145,7 +145,22 @@ class PublicationTests(unittest.TestCase):
         self.assertIn('google-ads-management-fees.html', listing)
         self.assertIn('licensed-example.html', listing)
         home = files['index.html'].decode()
-        self.assertIn('pages/licensed-example.html', home)
+        original_home = (self.repo / 'index.html').read_text(encoding='utf-8')
+        original_carousel = P.Tree(original_home).root.find(lambda n: n.has_class('blog-list-3'))
+        candidate_dates = {}
+        for node in original_carousel.children:
+            if isinstance(node, P.Node):
+                heading = node.find(lambda n: n.tag == 'h3')
+                link = heading.find(lambda n: n.tag == 'a') if heading else None
+                stamp = node.find(lambda n: n.tag == 'h6')
+                if link and stamp:
+                    candidate_dates[link.attrs['href']] = (stamp.text().strip(), '')
+        candidate_dates['pages/licensed-example.html'] = ('2026-11-05', DATE)
+        expected = sorted(candidate_dates, key=lambda href: candidate_dates[href], reverse=True)[:4]
+        carousel = P.Tree(home).root.find(lambda n: n.has_class('blog-list-3'))
+        actual = [n.find(lambda a: a.tag == 'a').attrs['href']
+                  for n in carousel.all(lambda n: n.tag == 'h3')]
+        self.assertEqual(actual, expected)
         self.assertIn('谷歌代投与谷歌开户', home)
         xml = ET.fromstring(files['sitemap.xml'])
         ns = '{http://www.sitemaps.org/schemas/sitemap/0.9}'
@@ -153,7 +168,7 @@ class PublicationTests(unittest.TestCase):
         self.assertIn('https://chaudizhi.com/pages/google-ads.html', urls)
         self.assertEqual(urls.count('https://chaudizhi.com/pages/licensed-example.html'), 1)
 
-    def test_home_keeps_exactly_four_latest_imported_articles(self):
+    def test_home_keeps_exactly_four_latest_articles(self):
         _, records, _, _ = P.build_stage(self.repo, [ITEM], FakeReader(), DATE)
         entries = []
         for i in range(7):
@@ -161,11 +176,23 @@ class PublicationTests(unittest.TestCase):
             r['file'] = f'pages/example-{i}.html'
             r['published_at'] = f'2026-11-0{i+1}T10:00:00Z'
             entries.append(r)
-        result = P.update_home((self.repo/'index.html').read_text(encoding='utf-8'), entries)
+        result = P.update_home('<div class="blog-list-3">' + P.card(entries[0], True) + '</div>', entries)
         carousel = P.Tree(result).root.find(lambda n: n.has_class('blog-list-3'))
         self.assertEqual(len(carousel.all(lambda n: n.has_class('single-blog-box'))), 4)
         self.assertIn('pages/example-6.html', result)
         self.assertNotIn('pages/example-0.html', result)
+        links = [n.find(lambda a: a.tag == 'a').attrs['href']
+                 for n in carousel.all(lambda n: n.tag == 'h3')]
+        self.assertEqual(links, [f'pages/example-{i}.html' for i in (6, 5, 4, 3)])
+
+    def test_older_import_does_not_displace_four_newer_home_cards(self):
+        base = {'title': 'Guide', 'description': 'Guide', 'category': 'Ads', 'images': []}
+        newer = [dict(base, file=f'pages/new-{i}.html', published_at=f'2026-11-{10+i:02d}')
+                 for i in range(4)]
+        source = '<div class="blog-list-3">' + ''.join(P.card(r, True) for r in reversed(newer)) + '</div>'
+        older = dict(base, file='pages/older.html', published_at='2026-11-05', imported_at=DATE)
+        result = P.update_home(source, [older])
+        self.assertEqual(result, source)
 
     def test_home_preserves_newer_original_article_without_duplicates(self):
         original = {'title': 'Original guide', 'description': 'Original', 'category': 'Ads',
