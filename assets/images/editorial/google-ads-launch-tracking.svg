@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-labelledby="t d">
+<title id="t">Google Ads launch checklist</title><desc id="d">Prepare access, verify the enquiry form, test measurement and launch ads before reviewing real leads.</desc>
+<rect width="1200" height="675" fill="#f1f7f3"/><rect x="48" y="48" width="1104" height="579" rx="28" fill="#113c30"/>
+<g font-family="Arial,sans-serif"><text x="96" y="128" fill="#b7e3c2" font-size="23" letter-spacing="3">GOOGLE ADS / LAUNCH CHECKLIST</text><text x="96" y="208" fill="white" font-size="53" font-weight="700">Measure first. Launch second.</text>
+<path d="M250 370H960" stroke="#b7e3c2" stroke-width="4"/><path d="M947 360L960 370L947 380" stroke="#b7e3c2" stroke-width="4" fill="none"/>
+<g fill="#fff"><rect x="96" y="285" width="220" height="170" rx="16"/><rect x="356" y="285" width="220" height="170" rx="16"/><rect x="616" y="285" width="220" height="170" rx="16"/><rect x="876" y="285" width="228" height="170" rx="16" fill="#d7f5ab"/></g>
+<g fill="#113c30" text-anchor="middle"><g font-size="22"><text x="206" y="327">01</text><text x="466" y="327">02</text><text x="726" y="327">03</text><text x="990" y="327">04</text></g><g font-size="25" font-weight="700"><text x="206" y="376">ACCESS</text><text x="466" y="376">ENQUIRY</text><text x="726" y="376">TRACKING</text><text x="990" y="376">LAUNCH</text></g><g font-size="18"><text x="206" y="418">Roles &amp; ownership</text><text x="466" y="418">Test submission</text><text x="726" y="418">Validate events</text><text x="990" y="418">Review real leads</text></g></g>
+<text x="96" y="552" fill="#b7e3c2" font-size="24">Ads + GA4 + GTM + your website</text></g></svg>
