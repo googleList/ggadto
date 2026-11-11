@@ -131,6 +131,8 @@ class PublicationTests(unittest.TestCase):
         self.assertIn('https://chaudizhi.com/pages/licensed-example.html', page)
         self.assertNotIn('www.ljglobal.cn', page)
         self.assertNotIn('lingjuimg.com', page)
+        self.assertFalse(tree.all(lambda n: n.tag == 'link' and n.attrs.get('hreflang')),
+                         'New imported articles must not inherit the template’s alternates')
         article = tree.find(lambda n: n.tag == 'main')
         self.assertNotIn('https://', page[article.start:article.end])
         self.assertIn('datePublished', page)

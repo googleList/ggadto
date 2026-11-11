@@ -302,7 +302,8 @@ def metadata_edits(template, record, date):
     for node in tree.all(lambda n: n.tag == 'meta'):
         if node.attrs.get('name') in ('description', 'keywords', 'twitter:card', 'twitter:title', 'twitter:description', 'twitter:image') or (node.attrs.get('property') or '').startswith('og:'):
             edits.append((node.start, node.end, ''))
-    for node in tree.all(lambda n: n.tag == 'link' and n.attrs.get('rel') == 'canonical'):
+    for node in tree.all(lambda n: n.tag == 'link' and (n.attrs.get('rel') == 'canonical' or
+                                                       (n.attrs.get('rel') == 'alternate' and n.attrs.get('hreflang')))):
         edits.append((node.start, node.end, ''))
     for node in tree.all(lambda n: n.tag == 'script' and n.attrs.get('type') == 'application/ld+json'):
         edits.append((node.start, node.end, ''))
