@@ -259,6 +259,186 @@
       ],
       "imported_at": "2026-11-09T03:53:11.817507Z",
       "content_sha256": "7cf378c26575fc709fc0476f4eba8321135d868ea614832664009dab742bb922"
+    },
+    "7b54b3857e4f174c78d5850dfad52ddfacc4d69a82a91f4f569076b5dc6efb93": {
+      "id": "7b54b3857e4f174c78d5850dfad52ddfacc4d69a82a91f4f569076b5dc6efb93",
+      "source_url": "https://www.ljglobal.cn/for-building-a-website-for-foreign-trade-should-you-choose-a-template-company-or-a-custom-development-company-how-should-a-business-decide/",
+      "title": "外贸建站选模板公司还是定制开发公司？企业应该怎么选？",
+      "description": "很多准备出海获客的外贸企业，在出海第一步就被外贸建站给难住了——到底是选择模版公司呢？还是选择支持定制开发的公司呢？如果用现成的模版建站，配置产品和页面后可以尽快上线。如果选择定制化的开发公司呢？就需要重新规划网站结构和功能。那么，外贸建站选模板公司还是定制开发公司？简单来说，两种方式各有适用场景。模板外贸建",
+      "category": "资讯",
+      "published_at": "2026-11-12T09:47:22Z",
+      "file": "pages/for-building-a-website-for-foreign-trade-should-you-choose-a-template-company-or-a-custom-development-company-how-should-a-business-decide.html",
+      "images": [
+        {
+          "file": "assets/images/imported/ljglobal/ccc6a1e5a714b32a5178bc70.webp",
+          "sha256": "ccc6a1e5a714b32a5178bc707fd72f0ba57bc55b2ecb680b5f613cfc3b610377",
+          "bytes": 100388
+        }
+      ],
+      "imported_at": "2026-11-12T11:23:15.316279Z",
+      "content_sha256": "363d44849d1768a656f5b36084e496a89b71cd5c49cf3da9d701ce8a0d61d9ce"
+    },
+    "d57dd27a8e28c3faaf18586275fee6f7d7dd92bab99cd899edc1cd20c6e965d2": {
+      "id": "d57dd27a8e28c3faaf18586275fee6f7d7dd92bab99cd899edc1cd20c6e965d2",
+      "source_url": "https://www.ljglobal.cn/how-do-you-choose-a-website-building-service-provider-for-the-semiconductor-industry-what-key-abilities-should-you-look-at/",
+      "title": "半导体行业外贸建站服务商怎么选？重点考察哪些能力？",
+      "description": "做芯片、电子元器件、模组、半导体材料或设备出口的企业，在重新建设外贸独立站时，不能只看页面设计是否好看。半导体产品往往涉及型号、技术参数、封装形式、认证资料和应用场景，海外工程师与采购人员也有不同的信息需求。如果建站公司只擅长展示型网站，却不了解产品分类、技术资料管理和海外客户的选型习惯，网站上线后可能出现产",
+      "category": "SEO",
+      "published_at": "2026-11-12T06:01:20Z",
+      "file": "pages/how-do-you-choose-a-website-building-service-provider-for-the-semiconductor-industry-what-key-abilities-should-you-look-at.html",
+      "images": [
+        {
+          "file": "assets/images/imported/ljglobal/3f6c5320f0a082076292328b.webp",
+          "sha256": "3f6c5320f0a082076292328b58ae66cd727c09460b316967def25fe4b82166f7",
+          "bytes": 160718
+        }
+      ],
+      "imported_at": "2026-11-12T11:23:15.316279Z",
+      "content_sha256": "2087ead50583e0a3e930fd713000b6b8affc8d2d01b7aba7e88e3b00f4ee346a"
+    },
+    "7f39db13b8d04b7e780cae4c068ee89cabad3fa32e4963f3ef46ce8c1f1c10fd": {
+      "id": "7f39db13b8d04b7e780cae4c068ee89cabad3fa32e4963f3ef46ce8c1f1c10fd",
+      "source_url": "https://www.ljglobal.cn/what-should-you-look-at-for-geo-optimization-quotes-first-check-the-service-scope-and-deliverables/",
+      "title": "GEO优化报价应该看什么？先核对服务范围与交付内容",
+      "description": "相信很多外贸企业在咨询GEO优化报价的时候，总会遇到这种情况：问了不少服务商，方案里普遍都写着——内容优化、AI可见度提升、月度报告。但具体执行内容却不太一样。看起来都是GEO服务，实际可能涉及网站技术、内容建设、品牌信息整理、外部渠道布局和AI平台监测等不同工作。那么，企业在咨询GEO优化报价的时候，应该看",
+      "category": "GEO",
+      "published_at": "2026-11-12T02:56:57Z",
+      "file": "pages/what-should-you-look-at-for-geo-optimization-quotes-first-check-the-service-scope-and-deliverables.html",
+      "images": [
+        {
+          "file": "assets/images/imported/ljglobal/9eedb2e328f588e2443f9885.webp",
+          "sha256": "9eedb2e328f588e2443f9885aca4a26cf92a319bfaa83565fd6e2f4a982e05c3",
+          "bytes": 148094
+        }
+      ],
+      "imported_at": "2026-11-12T11:23:15.316279Z",
+      "content_sha256": "d8338b3131b799a64d11b2c9e8ecf13b5328928872ee1b1840fcb2c3a75abc74"
+    },
+    "1b9e5bd5cee4990b8c183a7ec3e874c6c07544624d9c38efe460cc9d9ff4d580": {
+      "id": "1b9e5bd5cee4990b8c183a7ec3e874c6c07544624d9c38efe460cc9d9ff4d580",
+      "source_url": "https://www.ljglobal.cn/how-can-building-a-foreign-trade-website-balance-google-seo-and-inquiry-conversions/",
+      "title": "外贸网站建设如何兼顾Google SEO与询盘转化？",
+      "description": "外贸网站建设常见两种问题：一种只顾收录，堆了一批围着关键词写的文章，流量慢慢来了，却没人询价；另一种只顾转化，整站做成几张大图加一个联系按钮，看着漂亮，Google却读不到多少内容。SEO外贸网站建设不是把两套需求各做一半。它更像一条链：先让目标市场的采购商搜得到、读得懂，再让他愿意开口。可索引的页面、对得上",
+      "category": "SEO",
+      "published_at": "2026-11-11T09:31:53Z",
+      "file": "pages/how-can-building-a-foreign-trade-website-balance-google-seo-and-inquiry-conversions.html",
+      "images": [
+        {
+          "file": "assets/images/imported/ljglobal/0b610a4a3263de2613ed7e92.webp",
+          "sha256": "0b610a4a3263de2613ed7e924527e427499682b148b296dec1ef4e2514741969",
+          "bytes": 80592
+        }
+      ],
+      "imported_at": "2026-11-12T11:23:15.316279Z",
+      "content_sha256": "8c2208ddf93e709a0c576172db9353d11030d49c51f072c5077ce91685fd66a3"
+    },
+    "9eb0ee810d945b990e99b8264e6f4da06986dad02a69c8279951fc5778c3df72": {
+      "id": "9eb0ee810d945b990e99b8264e6f4da06986dad02a69c8279951fc5778c3df72",
+      "source_url": "https://www.ljglobal.cn/why-hasnt-the-companys-official-website-been-referenced-by-ai-what-aspects-should-be-checked-if-ai-references-a-website/",
+      "title": "企业官网为什么没有被AI引用？AI引用网站应该从哪些方面排查？",
+      "description": "在AI搜索中输入一个行业问题，回答末尾出现了同行官网，自家网站却没有；或者某次突然发现官网被引用，却说不清具体原因。这些都是企业做GEO优化时经常遇到的情况。但网站有没有被AI引用，不能只看一次回答。AI引用受到页面内容、网站可访问性、品牌信息、外部资料以及平台检索机制等多方面影响。想知道问题出在哪里，需要先",
+      "category": "GEO",
+      "published_at": "2026-11-11T06:25:37Z",
+      "file": "pages/why-hasnt-the-companys-official-website-been-referenced-by-ai-what-aspects-should-be-checked-if-ai-references-a-website.html",
+      "images": [
+        {
+          "file": "assets/images/imported/ljglobal/4919951ffc2b7ecaf38d2e61.webp",
+          "sha256": "4919951ffc2b7ecaf38d2e61a90c01c6606f9f68da1cdb81fd4ecd93ba259b46",
+          "bytes": 89786
+        }
+      ],
+      "imported_at": "2026-11-12T11:23:15.316279Z",
+      "content_sha256": "1cfa86ef0de92bc4c798614bbac1ae08245ceaf3c86abe09b22e4a8d49510c87"
+    },
+    "b18890c8ea030828081f05640add9ff1eb63e7a81dc5cec916275f4ae6b0938f": {
+      "id": "b18890c8ea030828081f05640add9ff1eb63e7a81dc5cec916275f4ae6b0938f",
+      "source_url": "https://www.ljglobal.cn/which-events-should-be-set-up-for-google-ads-conversion-tracking/",
+      "title": "Google广告转化追踪应该设置哪些事件？",
+      "description": "Google广告后台显示有30条转化，实际邮箱却只有8封询盘，业务员还反馈有客户直接打电话。这种数据不一致，可能是转化事件设置不准确，也可能存在重复统计或部分联系行为没有记录。Google广告转化追踪的重点，不是统计用户点击了多少次，而是尽可能准确地记录广告带来的有效询盘。对外贸B2B企业来说，建议先区分主要",
+      "category": "Ads",
+      "published_at": "2026-11-11T02:22:33Z",
+      "file": "pages/which-events-should-be-set-up-for-google-ads-conversion-tracking.html",
+      "images": [
+        {
+          "file": "assets/images/imported/ljglobal/2919e4d66ad761ddcf88ccde.webp",
+          "sha256": "2919e4d66ad761ddcf88ccde2a03e4d0be6410deaf8c15c4c4de4eb5bf10adf8",
+          "bytes": 54154
+        }
+      ],
+      "imported_at": "2026-11-12T11:23:15.316279Z",
+      "content_sha256": "eaffe6deaf88a2ee1fd5bbdfc5bb82bb6b4a7b67d137e38c78170ab985f12a35"
+    },
+    "a72a43d1416d834f1c8142c8bfd3ad7f04930bf738b74566ea3d06c2a3190605": {
+      "id": "a72a43d1416d834f1c8142c8bfd3ad7f04930bf738b74566ea3d06c2a3190605",
+      "source_url": "https://www.ljglobal.cn/how-do-foreign-trade-companies-assess-the-phased-results-of-geo-optimization/",
+      "title": "外贸企业如何评估GEO优化的阶段性成果？",
+      "description": "做了两三个月，月报写着AI可见度明显提升，追问一句提升从哪来、和询盘有没有关系，往往就说不清了。GEO的难处正在这里：结果会波动，又和SEO、内容更新、外部提及交织在一起。GEO效果评估的目的，其实不是证明\"都是优化的功劳\"，而是把执行量、可见度、自然流量和线索按时间摆在同一张表上，看出哪些变化值得继续、哪些",
+      "category": "GEO",
+      "published_at": "2026-11-10T07:49:04Z",
+      "file": "pages/how-do-foreign-trade-companies-assess-the-phased-results-of-geo-optimization.html",
+      "images": [
+        {
+          "file": "assets/images/imported/ljglobal/85d5ae912c53bee92e309e3d.webp",
+          "sha256": "85d5ae912c53bee92e309e3df25c55b74a8fea7c2bf38fbf11167a3ab29d09b0",
+          "bytes": 95450
+        }
+      ],
+      "imported_at": "2026-11-12T11:23:15.316279Z",
+      "content_sha256": "82426300745df771b1fdd973ad91d8fc8997bddc115b5224611e0f03b085036c"
+    },
+    "e31eac981999b7c4c3586fec87ca51949783f7ab448e1b6749bce5d5df64f5b4": {
+      "id": "e31eac981999b7c4c3586fec87ca51949783f7ab448e1b6749bce5d5df64f5b4",
+      "source_url": "https://www.ljglobal.cn/what-technical-skills-should-a-foreign-trade-website-company-have/",
+      "title": "外贸建站公司应该具备哪些技术能力？",
+      "description": "很多外贸企业在选择外贸建站公司时，很容易先关注网站效果图和页面设计——大幅头图、滚动动效、配色讲究。好看当然重要，但说明不了网站能不能用。因为真正影响使用体验和后续推广的，往往是移动端适配、访问速度、技术SEO、后台管理和网站安全等基础能力。比如海外采购商在手机上打开产品页、Google来抓取页面、业务员想改",
+      "category": "资讯",
+      "published_at": "2026-11-10T04:43:01Z",
+      "file": "pages/what-technical-skills-should-a-foreign-trade-website-company-have.html",
+      "images": [
+        {
+          "file": "assets/images/imported/ljglobal/8fac5d200bd99ec1848727d3.webp",
+          "sha256": "8fac5d200bd99ec1848727d3b60f89a01f4012993b786205c9ec6fe07a771781",
+          "bytes": 133004
+        }
+      ],
+      "imported_at": "2026-11-12T11:23:15.316279Z",
+      "content_sha256": "f442eeb57bd681ecb1cf3e53c9faeb0db8fdbea9a5276151fa3abc31a366ee5f"
+    },
+    "c9c1d40f8c066ee5bea0013d6c018b6d18a1c8349afb0c078757cdc770d736ae": {
+      "id": "c9c1d40f8c066ee5bea0013d6c018b6d18a1c8349afb0c078757cdc770d736ae",
+      "source_url": "https://www.ljglobal.cn/how-to-choose-google-ad-keywords-a-guide-for-foreign-trade-companies-on-precise-keyword-selection-and-optimization/",
+      "title": "Google广告关键词如何选择？外贸企业精准选词与优化指南",
+      "description": "外贸企业投Google广告，经常遇到点击不少、有效询盘却很少的情况。检查搜索词报告后，可能会发现广告触发了大量教程、招聘、免费资料等不相关搜索。这类问题可能与关键词设置过宽、搜索意图判断不准确有关。Google广告关键词选择的重点，不是寻找搜索量最大的词，而是找到与产品、目标买家和采购需求相匹配的搜索词。需要",
+      "category": "Ads",
+      "published_at": "2026-11-10T02:39:31Z",
+      "file": "pages/how-to-choose-google-ad-keywords-a-guide-for-foreign-trade-companies-on-precise-keyword-selection-and-optimization.html",
+      "images": [
+        {
+          "file": "assets/images/imported/ljglobal/8cfb60812a70a923d4f39d82.webp",
+          "sha256": "8cfb60812a70a923d4f39d82e4df04031f314b18be6a259d04a0ab59ec1d9250",
+          "bytes": 25118
+        }
+      ],
+      "imported_at": "2026-11-12T11:23:15.316279Z",
+      "content_sha256": "fce188606fd83bf6be02ee784681d550848bf122406329373d4edfb79d2b10f6"
+    },
+    "6fc9a64b689056b0e8af1f1f2852193cf9cbe0f40d1dc0bf5d626e69168e97d1": {
+      "id": "6fc9a64b689056b0e8af1f1f2852193cf9cbe0f40d1dc0bf5d626e69168e97d1",
+      "source_url": "https://www.ljglobal.cn/how-to-choose-a-website-design-company-in-anhui-a-guide-for-export-businesses/",
+      "title": "安徽外贸建站公司怎么选？服务商选型指南",
+      "description": "安徽外贸企业准备搭建或重做独立站时，面对不同建站服务商，方案中经常都会出现“响应式设计、多语言支持、GoogleSEO友好”等描述。但这些功能写在方案里，不代表最终都能落地。真正需要关注的是：网站能否满足海外采购商的浏览和信息获取需求？Google能否正常抓取和理解页面？企业能否自主维护网站？域名、源码和后台",
+      "category": "SEO",
+      "published_at": "2026-11-09T07:48:15Z",
+      "file": "pages/how-to-choose-a-website-design-company-in-anhui-a-guide-for-export-businesses.html",
+      "images": [
+        {
+          "file": "assets/images/imported/ljglobal/9ec407b418b34b5939cb6e04.webp",
+          "sha256": "9ec407b418b34b5939cb6e045841d50da6ea41d4526fd3be4070611245fc3eab",
+          "bytes": 320362
+        }
+      ],
+      "imported_at": "2026-11-12T11:23:15.316279Z",
+      "content_sha256": "cb9fd9b0e293f82dc45a8f52700d5eff4a7ad4e543637846b145d53c9bbf031f"
     }
   }
 }
