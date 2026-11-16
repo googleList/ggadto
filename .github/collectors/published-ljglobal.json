@@ -439,6 +439,114 @@
       ],
       "imported_at": "2026-11-12T11:23:15.316279Z",
       "content_sha256": "cb9fd9b0e293f82dc45a8f52700d5eff4a7ad4e543637846b145d53c9bbf031f"
+    },
+    "f264d5eeb5b294b21cc189ccac7816886a51a08e8ab7b2d5ccc8415f198a2e32": {
+      "id": "f264d5eeb5b294b21cc189ccac7816886a51a08e8ab7b2d5ccc8415f198a2e32",
+      "source_url": "https://www.ljglobal.cn/seo-for-website-redesign-how-to-minimize-google-ranking-and-indexing-fluctuations/",
+      "title": "老外贸网站改版SEO怎么做？降低Google收录与排名波动",
+      "description": "相信很多外贸企业都遇到过一个相同的问题：一个外贸网站运营了五六年，产品页网址换过几轮，栏目结构也调整过。改版后，新网站看起来更清爽，但没过多久，GSC里的收录页面数量开始下降，原本有曝光的关键词也出现波动。其实这种情况不一定是新版网站质量不好，也可能是改版过程中，旧网址没有正确迁移，或者新页面出现了抓取和索引",
+      "category": "SEO",
+      "published_at": "2026-11-16T09:32:22Z",
+      "file": "pages/seo-for-website-redesign-how-to-minimize-google-ranking-and-indexing-fluctuations.html",
+      "images": [
+        {
+          "file": "assets/images/imported/ljglobal/a2c509d465ccb9710773e376.webp",
+          "sha256": "a2c509d465ccb9710773e37608672c2a7417bb8c09e3de71a32b5e76706c2d13",
+          "bytes": 59682
+        }
+      ],
+      "imported_at": "2026-11-16T11:31:50.427599Z",
+      "content_sha256": "dd4bf13e71d17ae6e2d73fb5fe966bd8183e88e7b18ed04f348ca22efc336125"
+    },
+    "73b5f78474c3c986021f10da1fcbbc32bc22d6b34f75cdc4f77bd01fca8aeb34": {
+      "id": "73b5f78474c3c986021f10da1fcbbc32bc22d6b34f75cdc4f77bd01fca8aeb34",
+      "source_url": "https://www.ljglobal.cn/custom-website-development-vs-shopify-which-is-better-for-export-businesses/",
+      "title": "外贸企业如何选择建站方案？定制建站与Shopify独立站对比",
+      "description": "很多准备搭建独立站的外贸企业，都会遇到一个问题：到底是选择Shopify独立站，还是找专门的建站公司做定制化的外贸独立站。其实两种方案都能建立独立站，但适用的业务场景并不完全相同。比如，标准产品可以在线展示、加入购物车并直接付款；而工业设备、零部件等产品，往往需要客户先了解参数、提交需求，再由业务人员报价。因",
+      "category": "SEO",
+      "published_at": "2026-11-16T06:24:07Z",
+      "file": "pages/custom-website-development-vs-shopify-which-is-better-for-export-businesses.html",
+      "images": [
+        {
+          "file": "assets/images/imported/ljglobal/843f403a27bf16643d50c307.webp",
+          "sha256": "843f403a27bf16643d50c30781018937406d0b58f267eea044941f9dbab3ad64",
+          "bytes": 119184
+        }
+      ],
+      "imported_at": "2026-11-16T11:31:50.427599Z",
+      "content_sha256": "085e183fadb7f708f287db510f6b04482f3962bbb17aeb400b13f58b788d03ec"
+    },
+    "59d985c9a94c21cd6284fdeaa34375545de5aaf5b75a9e463127ce7f34c31d78": {
+      "id": "59d985c9a94c21cd6284fdeaa34375545de5aaf5b75a9e463127ce7f34c31d78",
+      "source_url": "https://www.ljglobal.cn/how-to-choose-a-website-design-company-in-hefei-a-guide-for-manufacturers/",
+      "title": "合肥外贸网站建设公司怎么选？制造企业选型指南",
+      "description": "合肥一家制造企业准备重做英文官网，咨询了几家建站公司，方案都写着“专注外贸建站、WordPress定制、符合Google SEO要求”，但实际开发内容和服务范围却不一样。合肥外贸网站建设哪家专业，不能只看宣传语或报价。对于制造企业来说，更重要的是服务商能否理解产品展示需求、做好网站结构和技术开发，并在项目交付",
+      "category": "资讯",
+      "published_at": "2026-11-16T02:20:07Z",
+      "file": "pages/how-to-choose-a-website-design-company-in-hefei-a-guide-for-manufacturers.html",
+      "images": [
+        {
+          "file": "assets/images/imported/ljglobal/99a47a9166c09cf1170193ba.webp",
+          "sha256": "99a47a9166c09cf1170193ba5bd74bec79498516b1278b5a8abd4245216f77d1",
+          "bytes": 238068
+        }
+      ],
+      "imported_at": "2026-11-16T11:31:50.427599Z",
+      "content_sha256": "ddc0a3615fb3bbac8c1ed28a4bf46ac4923a09a2f4c6809bf93c7a6540085f3d"
+    },
+    "b9ae5e8590e26a599f2dcb9c7c1b86bfc9610cfb7e08f6c3f886c36b69c68dab": {
+      "id": "b9ae5e8590e26a599f2dcb9c7c1b86bfc9610cfb7e08f6c3f886c36b69c68dab",
+      "source_url": "https://www.ljglobal.cn/how-export-businesses-can-choose-a-multilingual-website-development-company-in-hefei/",
+      "title": "合肥多语言外贸建站公司怎么选？",
+      "description": "由于英文站的赛道竞争激烈，很多外贸企业开始转战其他语种的独立站。然而，很多服务商的方案里写着\"支持8语种、一键翻译、全球覆盖\"，报价按语种往上加。看着挺全面，用起来常是另一回事：西语页三年没更新，德语页的产品名和英文页对不上，Google把几个语种判成重复内容，业务员想给客户发一个具体产品链接，一转发却跳回了",
+      "category": "SEO",
+      "published_at": "2026-11-13T09:21:05Z",
+      "file": "pages/how-export-businesses-can-choose-a-multilingual-website-development-company-in-hefei.html",
+      "images": [
+        {
+          "file": "assets/images/imported/ljglobal/4e80c0c520bd5878eda73d82.webp",
+          "sha256": "4e80c0c520bd5878eda73d827051946df5315876e991ebad06dd540be700b699",
+          "bytes": 58674
+        }
+      ],
+      "imported_at": "2026-11-16T11:31:50.427599Z",
+      "content_sha256": "9c5d265ce8e0b959a46616353ae2a31957bf2e27b7133d401b7575aced8bb503"
+    },
+    "cf8434135985755e83ed7547dfd2efbf0f668393f45194af32fab5db2a85e834": {
+      "id": "cf8434135985755e83ed7547dfd2efbf0f668393f45194af32fab5db2a85e834",
+      "source_url": "https://www.ljglobal.cn/how-to-choose-a-website-design-agency-for-renewable-energy-export-businesses/",
+      "title": "新能源行业外贸建站服务商怎么选？",
+      "description": "做光伏组件、储能系统或充电桩的外贸企业，准备建设英文官网时，不能只看建站公司的视觉案例。新能源产品往往涉及较多技术参数、认证资料、应用场景和质保信息。如果网站只有产品图片和简单介绍，海外买家很难快速判断产品是否符合项目需求。新能源外贸建站的重点，是把产品信息、技术资料和企业能力整理成清晰的网站结构，让不同类型",
+      "category": "资讯",
+      "published_at": "2026-11-13T06:52:14Z",
+      "file": "pages/how-to-choose-a-website-design-agency-for-renewable-energy-export-businesses.html",
+      "images": [
+        {
+          "file": "assets/images/imported/ljglobal/ed5377410dc811fbf2af0602.webp",
+          "sha256": "ed5377410dc811fbf2af06020abb5d8fc57e888b4357473a0251b65127e7e21a",
+          "bytes": 292812
+        }
+      ],
+      "imported_at": "2026-11-16T11:31:50.427599Z",
+      "content_sha256": "2ae5e8dcadffd480c41d20ce50d3929be6710a1b5ba9cf99f427f67f3a77604e"
+    },
+    "c370de7f73bf1cb3e033933366c305da0cea486f4e68f04bdd649756c22b6f48": {
+      "id": "c370de7f73bf1cb3e033933366c305da0cea486f4e68f04bdd649756c22b6f48",
+      "source_url": "https://www.ljglobal.cn/website-ownership-who-owns-your-domain-source-code-and-hosting/",
+      "title": "外贸网站所有权归谁？域名、源码和服务器权限怎么约定？",
+      "description": "有些企业和建站公司合作多年，准备更换服务商时才发现：域名注册在对方账号下，网站源码拿不到，服务器和后台也只有对方能登录。网站虽然一直在使用，但想迁移或重新开发，却处处受限制。这类问题通常不是网站做得好不好，而是合作初期没有明确外贸网站所有权和管理权限。外贸网站涉及的资产不止是网页本身，至少要区分四个方面：域名",
+      "category": "资讯",
+      "published_at": "2026-11-13T02:48:46Z",
+      "file": "pages/website-ownership-who-owns-your-domain-source-code-and-hosting.html",
+      "images": [
+        {
+          "file": "assets/images/imported/ljglobal/94f88c7265cc508764c8c041.webp",
+          "sha256": "94f88c7265cc508764c8c041ec4d65f040435d87a3576e538fc3c7b268530bb7",
+          "bytes": 325446
+        }
+      ],
+      "imported_at": "2026-11-16T11:31:50.427599Z",
+      "content_sha256": "46fad9156c325d56f27f84d7573fe559ac761eada63cf9a63ef6239db5df19a8"
     }
   }
 }
