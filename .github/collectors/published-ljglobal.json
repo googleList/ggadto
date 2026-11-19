@@ -547,6 +547,173 @@
       ],
       "imported_at": "2026-11-16T11:31:50.427599Z",
       "content_sha256": "46fad9156c325d56f27f84d7573fe559ac761eada63cf9a63ef6239db5df19a8"
+    },
+    "38933677de5bb716599ba6755d9057b27bc4e2c725ac8bb8bd1d9084cc60c589": {
+      "id": "38933677de5bb716599ba6755d9057b27bc4e2c725ac8bb8bd1d9084cc60c589",
+      "source_url": "https://www.ljglobal.cn/how-to-choose-an-seo-website-redesign-company-in-hefei-5-key-factors/",
+      "title": "合肥SEO网站改版公司怎么选？重点看这5项",
+      "description": "很多外贸企业，在将老外贸网站改版后，产品页面确实变好看了不少，但是Google里的旧产品链接却打不开，原有流量和询盘页面也可能受到影响。是新网站出问题了？当然不是！问题并不只在新网站，而在改版前有没有做好SEO数据盘点、网址规划和迁移检查。寻找合肥SEO网站改版公司，不能只看设计案例，还要确认团队是否理解Go",
+      "category": "SEO",
+      "published_at": "2026-11-19T08:42:34Z",
+      "file": "pages/how-to-choose-an-seo-website-redesign-company-in-hefei-5-key-factors.html",
+      "images": [
+        {
+          "file": "assets/images/imported/ljglobal/61cd5d3b8ef45f08bcbab143.webp",
+          "sha256": "61cd5d3b8ef45f08bcbab143785de93735894931bbac98bd7c178c202b758840",
+          "bytes": 64858
+        }
+      ],
+      "imported_at": "2026-11-19T11:47:15.166463Z",
+      "content_sha256": "4cc2d2552b9fb0a623e3f5195fdc44ebd38ebab3069703b7d3687538008988f9"
+    },
+    "ed257d8351d41e6e9454602a3e56c71aa3745bdc9d2788d530c2b0bc96465e42": {
+      "id": "ed257d8351d41e6e9454602a3e56c71aa3745bdc9d2788d530c2b0bc96465e42",
+      "source_url": "https://www.ljglobal.cn/website-backend-too-complicated-should-you-upgrade-your-cms-or-optimize-it/",
+      "title": "外贸网站后台操作复杂，应该更换系统还是优化后台？",
+      "description": "相信不少布局外贸独立站的企业，都遇到过这种问题。外贸网站上线后，产品增加了、语种变多了，原本简单的后台操作可能变得繁琐：修改一个参数要切换多个页面，多语言内容需要逐项调整，权限和表单设置也不容易找到。很多人第一反应就是，是否需要重新开发网站。遇到这种情况，不一定要重新开发网站。先判断问题属于操作不便、功能缺失",
+      "category": "SEO",
+      "published_at": "2026-11-19T06:37:47Z",
+      "file": "pages/website-backend-too-complicated-should-you-upgrade-your-cms-or-optimize-it.html",
+      "images": [
+        {
+          "file": "assets/images/imported/ljglobal/fc6b74648cf08c393c39434c.webp",
+          "sha256": "fc6b74648cf08c393c39434c793dd58fa56492e2a9d876c0038d3fbbf02f22cb",
+          "bytes": 226264
+        }
+      ],
+      "imported_at": "2026-11-19T11:47:15.166463Z",
+      "content_sha256": "d3c1dce3970f73341b83682123ea01f8c2e40f3cfc9c97d1760c0a864e91dd94"
+    },
+    "92e3eaf796e2e1240401812a34137e6d2d20736a9f18a4b7a24ee74850c16eac": {
+      "id": "92e3eaf796e2e1240401812a34137e6d2d20736a9f18a4b7a24ee74850c16eac",
+      "source_url": "https://www.ljglobal.cn/how-to-build-a-product-database-for-your-export-business/",
+      "title": "外贸企业如何建立产品资料库？统一官网与AI搜索中的产品信息",
+      "description": "如果外贸企业的官网、产品手册、平台店铺和报价单中的产品参数不一致，那就很容易让客户产生疑问，也可能导致AI混淆不同型号的信息。那么，外贸企业如何建立产品资料库，才能统一网与AI搜索中的产品信息呢？简单来说，建立企业产品资料库，就是统一产品名称、型号、参数和应用信息，并明确资料更新与审核流程，让各渠道使用准确、",
+      "category": "GEO",
+      "published_at": "2026-11-19T02:35:07Z",
+      "file": "pages/how-to-build-a-product-database-for-your-export-business.html",
+      "images": [
+        {
+          "file": "assets/images/imported/ljglobal/fc6b74648cf08c393c39434c.webp",
+          "sha256": "fc6b74648cf08c393c39434c793dd58fa56492e2a9d876c0038d3fbbf02f22cb",
+          "bytes": 226264
+        }
+      ],
+      "imported_at": "2026-11-19T11:47:15.166463Z",
+      "content_sha256": "37121fa51a18284aaf97f0c15fb42c7a1d3a0ea80f20be99b4f8254c63733421"
+    },
+    "03eb27be181c81d7fd96eca1ba97f751ba5e229c12a16a2d42d16df5025cdf3f": {
+      "id": "03eb27be181c81d7fd96eca1ba97f751ba5e229c12a16a2d42d16df5025cdf3f",
+      "source_url": "https://www.ljglobal.cn/how-to-choose-a-website-security-company-in-hefei-5-key-factors-for-export-businesses/",
+      "title": "合肥网站安全维护公司怎么选？外贸企业重点看这5项",
+      "description": "网站没有打不开，也没有明显白屏，但客户却反馈“官网点进去跳到其他网站了”；再检查搜索结果，页面标题甚至变成了一些完全无关的内容。这类问题对外贸企业影响比较直接。网站被植入恶意代码后，除了影响正常访问，还可能影响Google收录、广告落地页和海外客户对企业的信任。所以，选择合肥网站安全维护公司时，不能只问“能不",
+      "category": "资讯",
+      "published_at": "2026-11-18T08:06:59Z",
+      "file": "pages/how-to-choose-a-website-security-company-in-hefei-5-key-factors-for-export-businesses.html",
+      "images": [
+        {
+          "file": "assets/images/imported/ljglobal/21a3da09c5d1a4e24685cfc3.webp",
+          "sha256": "21a3da09c5d1a4e24685cfc381801ee9d2034e1b33e634d69a11a07755f7534f",
+          "bytes": 84010
+        },
+        {
+          "file": "assets/images/imported/ljglobal/a977adc8949899e3d8c7ba84.webp",
+          "sha256": "a977adc8949899e3d8c7ba84b125516699d7cdce1266ac2f1219e27bd388f580",
+          "bytes": 28526
+        }
+      ],
+      "imported_at": "2026-11-19T11:47:15.166463Z",
+      "content_sha256": "64fec6891e1de6058d50ec13bf8115f1e111b4b89da18ac9f2450dec9eb59cc3"
+    },
+    "7d7b55e06165a97a3a2d4313bee410f2d1311a18197999faf71aaed6d5fbd3b5": {
+      "id": "7d7b55e06165a97a3a2d4313bee410f2d1311a18197999faf71aaed6d5fbd3b5",
+      "source_url": "https://www.ljglobal.cn/multilingual-website-separate-language-pages-vs-automatic-translation/",
+      "title": "多语言外贸网站怎么做？独立语言页面还是自动翻译？",
+      "description": "很多外贸企业准备拓展海外市场时，都会遇到一个选择：网站增加西班牙语、德语、日语等版本，到底应该单独做语言页面，还是直接使用网站自动翻译？两种方式都能实现多语言，但适用场景并不一样。如果只是让海外访客临时看懂页面，自动翻译比较省事；如果希望某个市场长期获取Google流量、承接询盘，就需要把语言版本当成独立页面",
+      "category": "资讯",
+      "published_at": "2026-11-18T03:59:09Z",
+      "file": "pages/multilingual-website-separate-language-pages-vs-automatic-translation.html",
+      "images": [
+        {
+          "file": "assets/images/imported/ljglobal/b1c7b935b4eb5737d05b5680.webp",
+          "sha256": "b1c7b935b4eb5737d05b5680e88adcd64a88609ea246c81942d5e2ea45b56d83",
+          "bytes": 56302
+        }
+      ],
+      "imported_at": "2026-11-19T11:47:15.166463Z",
+      "content_sha256": "8dee90d1c24ea69a8f8334b2638c0b25486b7a2ef4d9152c00957f5b3eb7e38f"
+    },
+    "0578174ea5c162061be53d3878428df57c3d262392f0693dee1859a2d5336198": {
+      "id": "0578174ea5c162061be53d3878428df57c3d262392f0693dee1859a2d5336198",
+      "source_url": "https://www.ljglobal.cn/why-does-ai-misunderstand-your-products-a-troubleshooting-guide-for-export-businesses/",
+      "title": "AI搜索产品理解错误是什么原因？外贸企业如何排查？",
+      "description": "客户发来一句：“AI说你们这台设备是给食品保鲜用的？”但企业实际销售的是注塑机配套工业冷水机。产品参数没有写错，企业名称也正确，问题出在产品用途被理解偏了。这类AI搜索产品理解错误，不一定是资料中的数字有误，也可能是产品定义太笼统、行业术语缺少解释，或应用场景没有说清楚。对外贸企业来说，排查时不要只盯着参数，",
+      "category": "GEO",
+      "published_at": "2026-11-18T02:56:10Z",
+      "file": "pages/why-does-ai-misunderstand-your-products-a-troubleshooting-guide-for-export-businesses.html",
+      "images": [
+        {
+          "file": "assets/images/imported/ljglobal/c03dd0d982c0d3168f6b2be7.webp",
+          "sha256": "c03dd0d982c0d3168f6b2be78b2e00743213340e2d95e98a0ea173927d7c952d",
+          "bytes": 378270
+        }
+      ],
+      "imported_at": "2026-11-19T11:47:15.166463Z",
+      "content_sha256": "0df40fc6e2593c4c8635ededeea1a36e6bb983600f553e9d90c470f6102bfd7d"
+    },
+    "38213569863c65821dffd32c7dd1ea186f25dc48e4103aad32726fdaa9c974c0": {
+      "id": "38213569863c65821dffd32c7dd1ea186f25dc48e4103aad32726fdaa9c974c0",
+      "source_url": "https://www.ljglobal.cn/who-owns-your-website-after-development-domain-source-code-and-hosting-rights/",
+      "title": "外贸网站建设完成后，域名、源码和服务器权限归谁？",
+      "description": "独立站搭建好了，但在验收时，不少企业会遇到类似的问题：建站公司说“网站都归你们”，但企业拿到的可能只有一个后台账号；也有企业签约前确认可以交付源码，上线后才发现使用的是订阅式建站平台，根本没有完整源码可以交付。这类问题的关键在于：外贸网站所有权不是一句笼统的承诺，而是域名、源码、服务器、后台账号和第三方授权等",
+      "category": "SEO",
+      "published_at": "2026-11-17T10:35:54Z",
+      "file": "pages/who-owns-your-website-after-development-domain-source-code-and-hosting-rights.html",
+      "images": [
+        {
+          "file": "assets/images/imported/ljglobal/f4d142e8418abd186d306ab2.webp",
+          "sha256": "f4d142e8418abd186d306ab2c6ca3ebb11684442f81489cd3985026983c0a2df",
+          "bytes": 400278
+        }
+      ],
+      "imported_at": "2026-11-19T11:47:15.166463Z",
+      "content_sha256": "1afb66cdfc7be93ad31a514947f0969d6b9116daca98f73421b32bdb7bad31ab"
+    },
+    "66061baeccb5603bbdfcb8bb79b1c3e7982607604b11a3d7e09d85f26ea527c5": {
+      "id": "66061baeccb5603bbdfcb8bb79b1c3e7982607604b11a3d7e09d85f26ea527c5",
+      "source_url": "https://www.ljglobal.cn/how-to-choose-a-wordpress-maintenance-company-in-anhui-a-guide-to-long-term-support/",
+      "title": "安徽WordPress维护公司怎么选？合肥长期运维团队评估指南",
+      "description": "很多使用WordPress搭建官网的外贸企业，在网站上线两三年后，后台可能已经积累了一批待更新的插件和主题。如果在更新插件或主题后操作不当，网站可能出现白屏；也有一些情况更隐蔽，比如页面看起来正常，但询盘表单无法正常发送邮件，直到几天后才发现询盘没有及时送达。这类问题在WordPress网站维护中并不少见。网",
+      "category": "资讯",
+      "published_at": "2026-11-17T07:27:01Z",
+      "file": "pages/how-to-choose-a-wordpress-maintenance-company-in-anhui-a-guide-to-long-term-support.html",
+      "images": [
+        {
+          "file": "assets/images/imported/ljglobal/a4421eedeb3b71fb496bbe45.webp",
+          "sha256": "a4421eedeb3b71fb496bbe45fb05741b9b2ac3c66f75cdf77e81ea103d99fc4a",
+          "bytes": 67580
+        }
+      ],
+      "imported_at": "2026-11-19T11:47:15.166463Z",
+      "content_sha256": "bd8526d9010bc25fe078f008b8cbf7fab04d4582ebcbf2724e5fb8db82c453e3"
+    },
+    "7b0ce0d27a82df71048678270812d97eee2396525d1f8a60fd1c3521c97004e8": {
+      "id": "7b0ce0d27a82df71048678270812d97eee2396525d1f8a60fd1c3521c97004e8",
+      "source_url": "https://www.ljglobal.cn/ai-search-shows-incorrect-product-information-how-businesses-can-fix-it/",
+      "title": "AI搜索产品信息错误怎么办？外贸企业如何纠正AI回答？",
+      "description": "当你的客户给你发来一张截图：“你们这款设备的功率是3kW吧？”但实际参数是5.5kW。一问才知道，客户是在AI搜索中看到的，回答还把认证标准和交期也写错了。遇到这种情况，企业首先要做的不是反复要求AI修改答案，而是查清错误信息来自哪里。AI生成的回答可能参考官网、第三方网页等公开资料，也可能在信息整合过程中出",
+      "category": "GEO",
+      "published_at": "2026-11-17T02:23:30Z",
+      "file": "pages/ai-search-shows-incorrect-product-information-how-businesses-can-fix-it.html",
+      "images": [
+        {
+          "file": "assets/images/imported/ljglobal/95e8e65a3bf56058f0308df8.webp",
+          "sha256": "95e8e65a3bf56058f0308df8ec78c2f3eb5568a46681ebc7910f334d25352351",
+          "bytes": 52060
+        }
+      ],
+      "imported_at": "2026-11-19T11:47:15.166463Z",
+      "content_sha256": "cb5b878bf7943fb249947596c208b62e4b4cc0cb248f2425c77569858c12360c"
     }
   }
 }
