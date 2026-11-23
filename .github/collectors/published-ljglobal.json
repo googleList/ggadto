@@ -714,6 +714,60 @@
       ],
       "imported_at": "2026-11-19T11:47:15.166463Z",
       "content_sha256": "cb5b878bf7943fb249947596c208b62e4b4cc0cb248f2425c77569858c12360c"
+    },
+    "f9f3d8298e316a029c38e20cef4a590a870e9078844006d7a677240d7ab8672c": {
+      "id": "f9f3d8298e316a029c38e20cef4a590a870e9078844006d7a677240d7ab8672c",
+      "source_url": "https://www.ljglobal.cn/how-to-add-product-filtering-and-request-a-quote-features-to-a-b2b-website/",
+      "title": "外贸网站需要增加客户询价、产品筛选功能，应该如何开发？",
+      "description": "产品页只有简单分类，客户想按功率、材质或认证查找型号，却要反复翻页面；询盘只留下一句“想了解这款”，业务员还得来回确认规格。遇到这种情况，企业通常会考虑增加产品筛选和在线询价功能。但外贸网站功能开发并不是直接选插件或找人定制。更稳妥的做法是先梳理客户怎么找产品、如何提交需求，再结合现有网站系统判断采用插件、功",
+      "category": "资讯",
+      "published_at": "2026-11-20T09:40:28Z",
+      "file": "pages/how-to-add-product-filtering-and-request-a-quote-features-to-a-b2b-website.html",
+      "images": [
+        {
+          "file": "assets/images/imported/ljglobal/43887bfba0f97f45ecd3ccf6.webp",
+          "sha256": "43887bfba0f97f45ecd3ccf6e3a7019b2cb8c3d69f4fcc55a29fbbb933b07390",
+          "bytes": 107298
+        }
+      ],
+      "imported_at": "2026-11-23T12:57:15.164857Z",
+      "content_sha256": "617586c55464f3e4795ed2248ac4d2ebf46d750d2b52772c3c94809823e1c5ad"
+    },
+    "b637f2cbff9d374cf35e78dff3df141c669fc9b769c61f971621a2dcadea8b40": {
+      "id": "b637f2cbff9d374cf35e78dff3df141c669fc9b769c61f971621a2dcadea8b40",
+      "source_url": "https://www.ljglobal.cn/how-to-choose-a-wordpress-development-company-in-anhui-5-key-factors/",
+      "title": "安徽WordPress定制开发公司怎么选？重点看这5项",
+      "description": "说好做WordPress定制开发，交付时却发现只是换了主题图片、调整文字和配色；后续想增加产品筛选、询盘分流等功能，又需要额外安装插件或重新开发。出现这种情况，往往是因为双方对定制开发的理解并不一致。WordPress本身是开源建站程序，既可以通过主题和插件快速搭建，也可以根据企业需求进行源码开发。因此，安徽",
+      "category": "资讯",
+      "published_at": "2026-11-20T06:36:59Z",
+      "file": "pages/how-to-choose-a-wordpress-development-company-in-anhui-5-key-factors.html",
+      "images": [
+        {
+          "file": "assets/images/imported/ljglobal/34a9b270d9f46326e7d1bb6c.webp",
+          "sha256": "34a9b270d9f46326e7d1bb6ca4a6a63cc88513d56358e9b42d417b2b622d8145",
+          "bytes": 12986
+        }
+      ],
+      "imported_at": "2026-11-23T12:57:15.164857Z",
+      "content_sha256": "3deae3f2e4002363284aa28738eb48f1ee656cabdfc3a1e0bc6ce2d4fa371107"
+    },
+    "002c7a8afff4edbeb146ef4c88d767a3a4ec211fdb869386a84e96caecbd98c3": {
+      "id": "002c7a8afff4edbeb146ef4c88d767a3a4ec211fdb869386a84e96caecbd98c3",
+      "source_url": "https://www.ljglobal.cn/ai-brand-confusion-how-to-help-ai-search-identify-your-business-correctly/",
+      "title": "AI搜索品牌混淆怎么办？如何让AI准确识别企业信息",
+      "description": "客户在AI搜索中询问某家公司，回答却混入了另一家同名企业的产品、地址或成立信息。还有一种情况是，回答里的每项资料单独看都像真的，组合起来却不属于同一家企业。这类AI搜索品牌混淆，通常与企业身份信息不够清晰、不同渠道资料不一致，或公开信息中存在相似主体有关。解决问题不能只靠反复增加品牌名称出现次数，而要让企业全",
+      "category": "GEO",
+      "published_at": "2026-11-20T02:33:44Z",
+      "file": "pages/ai-brand-confusion-how-to-help-ai-search-identify-your-business-correctly.html",
+      "images": [
+        {
+          "file": "assets/images/imported/ljglobal/e6fb5f4a3634927b807018de.webp",
+          "sha256": "e6fb5f4a3634927b807018deab4a8091d8b4f2ca146271f9414e3710b6eab6aa",
+          "bytes": 12370
+        }
+      ],
+      "imported_at": "2026-11-23T12:57:15.164857Z",
+      "content_sha256": "6558702728f84663437e0b37f4b449dd51852e71ae6ee6e103fda353d4f2b7a0"
     }
   }
 }
