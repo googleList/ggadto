@@ -768,6 +768,78 @@
       ],
       "imported_at": "2026-11-23T12:57:15.164857Z",
       "content_sha256": "6558702728f84663437e0b37f4b449dd51852e71ae6ee6e103fda353d4f2b7a0"
+    },
+    "64ef0a29447ee8c55af69a730c6197ce91d6cd064d9547850409f853e5d9dd1f": {
+      "id": "64ef0a29447ee8c55af69a730c6197ce91d6cd064d9547850409f853e5d9dd1f",
+      "source_url": "https://www.ljglobal.cn/how-to-prepare-english-technical-documentation-for-better-ai-search-understanding/",
+      "title": "外贸企业如何准备英文技术资料，提升AI搜索中的信息理解？",
+      "description": "中文规格书翻译成英文 PDF，并不代表资料准备已经完成。海外采购商还会核对参数工况、测试标准，以及规格书与官网数据是否一致。术语、参数或版本不统一，也可能影响 AI 搜索对产品信息的准确呈现。因此，英文技术资料优化不只是翻译，而是让产品信息准确、清晰、可核对，方便采购商阅读，也便于搜索引擎和 AI 工具识别。",
+      "category": "GEO",
+      "published_at": "2026-11-24T10:48:36Z",
+      "file": "pages/how-to-prepare-english-technical-documentation-for-better-ai-search-understanding.html",
+      "images": [
+        {
+          "file": "assets/images/imported/ljglobal/95e8e65a3bf56058f0308df8.webp",
+          "sha256": "95e8e65a3bf56058f0308df8ec78c2f3eb5568a46681ebc7910f334d25352351",
+          "bytes": 52060
+        }
+      ],
+      "imported_at": "2026-11-24T13:50:08.917163Z",
+      "content_sha256": "1e7a89ad5ac9b6cdbf7f4ce21dfa31c2680e49c83368997f6ef23a0dcd6ffd50"
+    },
+    "0442f4096ac74eb47508363f982276479be224e4c0611bd3daaa6094df349d0e": {
+      "id": "0442f4096ac74eb47508363f982276479be224e4c0611bd3daaa6094df349d0e",
+      "source_url": "https://www.ljglobal.cn/how-to-choose-a-server-management-company-in-hefei-5-key-factors/",
+      "title": "合肥服务器运维公司怎么选？外贸网站维护重点看这5项",
+      "description": "服务器环境是 B2B 外贸网站建设的基础。建站阶段应结合目标市场访问、运行环境、HTTPS 部署和上线测试进行规划，而不是等网站上线后再临时安排维护。 例如，安徽领聚在 B2B 品牌建站中会涉及源码定制、海外服务器空间、HTTPS、多语言网站、响应式设计及上线前测试。企业在沟通时，应重点确认建站交付内容、服务",
+      "category": "资讯",
+      "published_at": "2026-11-24T06:43:09Z",
+      "file": "pages/how-to-choose-a-server-management-company-in-hefei-5-key-factors.html",
+      "images": [
+        {
+          "file": "assets/images/imported/ljglobal/39d4a3b5f2bcb28373643c15.webp",
+          "sha256": "39d4a3b5f2bcb28373643c152f4798d541bcc0aa8dc08d111d71553f967a471a",
+          "bytes": 280340
+        }
+      ],
+      "imported_at": "2026-11-24T13:50:08.917163Z",
+      "content_sha256": "d90ebd40a184c5e84ede14194e938283ccc360bf4be8e4d7132c3f9dff218277"
+    },
+    "06e6f2651483aad97450e7af8b772b95eb0adc611baa6e817a236c39a25b1d53": {
+      "id": "06e6f2651483aad97450e7af8b772b95eb0adc611baa6e817a236c39a25b1d53",
+      "source_url": "https://www.ljglobal.cn/how-to-choose-a-website-troubleshooting-company-in-anhui-5-key-factors/",
+      "title": "安徽外贸网站故障处理公司怎么选？重点看这5项",
+      "description": "海外客户反馈官网打不开，国内同事打开却一切正常；产品页面可以访问，询盘表单却迟迟没有邮件提醒。这些都是外贸网站运营中容易遇到的问题。企业搜索“安徽网站故障处理公司”，真正需要找的通常不是单纯会改页面的人，而是能判断故障来源、协调相关技术环节，并验证网站恢复情况的团队。选择服务商前，建议先看清故障类型，再重点考",
+      "category": "资讯",
+      "published_at": "2026-11-24T02:39:35Z",
+      "file": "pages/how-to-choose-a-website-troubleshooting-company-in-anhui-5-key-factors.html",
+      "images": [
+        {
+          "file": "assets/images/imported/ljglobal/8fac5d200bd99ec1848727d3.webp",
+          "sha256": "8fac5d200bd99ec1848727d3b60f89a01f4012993b786205c9ec6fe07a771781",
+          "bytes": 133004
+        }
+      ],
+      "imported_at": "2026-11-24T13:50:08.917163Z",
+      "content_sha256": "4e2ffa4d346785a6ed27c7720f84e127c136c929b740ccf3546609c5c315dcc4"
+    },
+    "5dc1d9ed1ef5a9ee0318cf3e0b7d5709eaafe9e0a1743a208de76dca63eaf9a4": {
+      "id": "5dc1d9ed1ef5a9ee0318cf3e0b7d5709eaafe9e0a1743a208de76dca63eaf9a4",
+      "source_url": "https://www.ljglobal.cn/do-product-videos-for-export-businesses-need-english-subtitles-and-descriptions/",
+      "title": "外贸企业的产品视频需要配英文字幕和文字说明吗？",
+      "description": "拍摄设备运行演示后，企业通常会把视频发布到官网或海外视频平台。但海外买家可能听不清口音、不了解专业术语，也可能在静音环境下观看；只靠画面和讲解，不一定能准确理解型号、操作步骤和适用工况。因此，外贸产品视频英文字幕和文字说明都有必要，但两者作用不同：字幕帮助观众跟上视频内容，文字稿则把关键信息整理成网页上可阅读",
+      "category": "资讯",
+      "published_at": "2026-11-23T02:09:24Z",
+      "file": "pages/do-product-videos-for-export-businesses-need-english-subtitles-and-descriptions.html",
+      "images": [
+        {
+          "file": "assets/images/imported/ljglobal/f01a9b59e1ed91fd576e260c.webp",
+          "sha256": "f01a9b59e1ed91fd576e260c2455d3924e919b34f5f38d6f2516c3d97bb579b6",
+          "bytes": 121566
+        }
+      ],
+      "imported_at": "2026-11-24T13:50:08.917163Z",
+      "content_sha256": "6e78ac3485b78150739c9071e371cace6b2aa9d0f2a876937cc38ab5e2e9603c"
     }
   }
 }
