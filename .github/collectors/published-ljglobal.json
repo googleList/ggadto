@@ -840,6 +840,60 @@
       ],
       "imported_at": "2026-11-24T13:50:08.917163Z",
       "content_sha256": "6e78ac3485b78150739c9071e371cace6b2aa9d0f2a876937cc38ab5e2e9603c"
+    },
+    "3723a89f81f4e120809047fcbb07a294351fe50f6efc1390c48b3f2aa1e940a6": {
+      "id": "3723a89f81f4e120809047fcbb07a294351fe50f6efc1390c48b3f2aa1e940a6",
+      "source_url": "https://www.ljglobal.cn/update-or-republish-old-blog-posts-an-seo-guide-for-export-websites/",
+      "title": "外贸网站旧文章没有流量，应该更新还是重新发布？",
+      "description": "外贸网站运营几年后，后台往往积累了不少旧文章。有些文章发布时做过关键词布局，如今几乎没有点击；有些曾经带来流量，最近排名却慢慢下滑。遇到这种情况，不少企业会考虑删掉旧文章，再换个标题重新发布。但重新发布并不意味着Google会把它当成更有价值的新内容。尤其是更换URL后，原页面积累的外链、历史数据和用户访问路",
+      "category": "资讯",
+      "published_at": "2026-11-25T11:07:42Z",
+      "file": "pages/update-or-republish-old-blog-posts-an-seo-guide-for-export-websites.html",
+      "images": [
+        {
+          "file": "assets/images/imported/ljglobal/6afc6e535495619348bde9f5.webp",
+          "sha256": "6afc6e535495619348bde9f51cfd13e7487121032ce0377e16b8a892cfb26a30",
+          "bytes": 223810
+        }
+      ],
+      "imported_at": "2026-11-25T13:03:38.003339Z",
+      "content_sha256": "49e7fb7e640ba16b3332f2fea6a5a90ff55c3c80638fd9ec8a3e6a8d8829a708"
+    },
+    "c569b0ad646a4e3143857945a1735a3040da5e9446c47d03d907324be57effcd": {
+      "id": "c569b0ad646a4e3143857945a1735a3040da5e9446c47d03d907324be57effcd",
+      "source_url": "https://www.ljglobal.cn/how-to-choose-a-website-redesign-company-in-anhui-5-key-factors/",
+      "title": "安徽外贸网站改版公司怎么选？老网站升级重点看这5项",
+      "description": "不少外贸企业的网站已经运行了七八年甚至更久：产品资料还在，但分类混乱；网站有访问和询盘，却没人敢随意调整；想增加新产品或语种，还得联系当年的建站人员。到了需要改版的时候，企业最担心的往往不是新网站够不够漂亮，而是旧页面、已有收录和历史询盘会不会受到影响。因此，寻找安徽外贸网站改版公司，不能只比较设计效果和报价",
+      "category": "资讯",
+      "published_at": "2026-11-25T06:01:28Z",
+      "file": "pages/how-to-choose-a-website-redesign-company-in-anhui-5-key-factors.html",
+      "images": [
+        {
+          "file": "assets/images/imported/ljglobal/43132912d642f76ce0c57882.webp",
+          "sha256": "43132912d642f76ce0c57882eb3dad1b90196b62a6645e8aaac914e27f1e8f05",
+          "bytes": 27248
+        }
+      ],
+      "imported_at": "2026-11-25T13:03:38.003339Z",
+      "content_sha256": "9cafcbf89ac9d17ff1bcf6433ea4148692be5ee54aece23ad2c2b5a20c388765"
+    },
+    "c6d3870019f9619565e7a87086370c836e0892f5ccaec3cb3e848c0b1ba22a41": {
+      "id": "c6d3870019f9619565e7a87086370c836e0892f5ccaec3cb3e848c0b1ba22a41",
+      "source_url": "https://www.ljglobal.cn/how-to-optimize-pdf-files-for-seo-and-ai-readability-product-catalogs-and-technical-white-papers/",
+      "title": "PDF资料AI读取怎么优化？产品目录与技术白皮书SEO要点",
+      "description": "设计部发来新版产品目录，排版更精美了，参数表也做成了整页信息图。但客户想复制一行产品规格去做报价，却发现文字根本选不中。这类问题不只是影响客户使用，也会影响搜索引擎和AI对资料内容的提取。对于外贸企业来说，产品目录、技术手册和白皮书不仅是销售资料，也是展示产品信息、技术能力和企业实力的重要内容。做好PDF资料",
+      "category": "SEO",
+      "published_at": "2026-11-25T02:57:51Z",
+      "file": "pages/how-to-optimize-pdf-files-for-seo-and-ai-readability-product-catalogs-and-technical-white-papers.html",
+      "images": [
+        {
+          "file": "assets/images/imported/ljglobal/2caae7c8e37e7d4780e3ef0c.webp",
+          "sha256": "2caae7c8e37e7d4780e3ef0c6e39b769aac758304023db19729495cc510f1a1d",
+          "bytes": 177314
+        }
+      ],
+      "imported_at": "2026-11-25T13:03:38.003339Z",
+      "content_sha256": "fe0fd3d0619011f483d71b904d34cb0d2816ee73f4d0321a72730bdc829b6dcf"
     }
   }
 }
