@@ -894,6 +894,60 @@
       ],
       "imported_at": "2026-11-25T13:03:38.003339Z",
       "content_sha256": "fe0fd3d0619011f483d71b904d34cb0d2816ee73f4d0321a72730bdc829b6dcf"
+    },
+    "592194107d970bee010a12d3ac8b0f85e2032961b521aaea7beb2b45ba193003": {
+      "id": "592194107d970bee010a12d3ac8b0f85e2032961b521aaea7beb2b45ba193003",
+      "source_url": "https://www.ljglobal.cn/category-pages-vs-product-pages-which-should-you-optimize-first-for-seo/",
+      "title": "外贸网站分类页和产品页都没有排名，应该先优化哪类页面？",
+      "description": "外贸网站上线一段时间后，分类页和产品详情页都没有明显的Google排名，询盘还是主要依靠老客户和广告。有人建议先完善产品参数，也有人认为应该先优化产品分类页。实际上，两类页面承担的搜索任务不同，不能简单地判断哪一类更重要。优化前要先看目标关键词、搜索意图和页面基础，再决定从哪里开始。 先明确分类页和产品页的定",
+      "category": "Ads",
+      "published_at": "2026-11-26T07:01:37Z",
+      "file": "pages/category-pages-vs-product-pages-which-should-you-optimize-first-for-seo.html",
+      "images": [
+        {
+          "file": "assets/images/imported/ljglobal/037607077a3d55c609990d3e.webp",
+          "sha256": "037607077a3d55c609990d3e919cf33f2c2b2568036dad13aad76ccb718a3e70",
+          "bytes": 55616
+        }
+      ],
+      "imported_at": "2026-11-26T12:43:43.935008Z",
+      "content_sha256": "3c317da6e0186a80b0c2fe093dbd1150cd097a55088ccea39a933d77e40d45dd"
+    },
+    "1f48ff7e01bac4738576a348d0079f361ccc1c2c62d426e3536d4e9581576740": {
+      "id": "1f48ff7e01bac4738576a348d0079f361ccc1c2c62d426e3536d4e9581576740",
+      "source_url": "https://www.ljglobal.cn/how-to-create-product-comparison-tables-for-ai-search-a-guide-for-export-businesses/",
+      "title": "外贸企业如何规划AI产品对比内容？产品对比表制作要点",
+      "description": "客户询问A型和B型有什么区别，销售发过去一张参数对比图，AI却把两个型号的参数混在一起，甚至直接给出没有依据的推荐。这类问题往往不是AI“不会比较”，而是产品资料本身缺少统一口径：型号名称、参数字段、测试条件、适用场景或页面信息存在不一致。对外贸企业来说，AI产品对比内容不是简单把型号和参数放进一张表，而是要",
+      "category": "资讯",
+      "published_at": "2026-11-26T02:55:21Z",
+      "file": "pages/how-to-create-product-comparison-tables-for-ai-search-a-guide-for-export-businesses.html",
+      "images": [
+        {
+          "file": "assets/images/imported/ljglobal/0fba99162e60283e2405521f.webp",
+          "sha256": "0fba99162e60283e2405521ff40c21774416bc527d989362a6fe30509564b648",
+          "bytes": 59614
+        }
+      ],
+      "imported_at": "2026-11-26T12:43:43.935008Z",
+      "content_sha256": "3b8455e581037cc1ae825ede054379de805a0c208c22f6f64ce63c058a806712"
+    },
+    "7d9c41c2db29a5ce11afd3d8a248cff840ccce7a67ca6a707d4917f705cfe9eb": {
+      "id": "7d9c41c2db29a5ce11afd3d8a248cff840ccce7a67ca6a707d4917f705cfe9eb",
+      "source_url": "https://www.ljglobal.cn/how-to-choose-a-multilingual-website-redesign-company-in-anhui-5-key-factors/",
+      "title": "安徽多语言网站改版服务商哪家好？重点看这5个方面",
+      "description": "先看是否会做分语种现状评估 多语言网站改版前，不能把所有语种当成同一批页面处理。英文站可能已有稳定收录和询盘，西语站可能长期没有有效访问，还有一些页面虽然有流量，却使用了过时的产品参数。 服务商应先按语种整理页面清单，结合GoogleSearchConsole、网站分析数据和询盘记录，查看各语言版本的收录、曝",
+      "category": "资讯",
+      "published_at": "2026-11-26T01:52:45Z",
+      "file": "pages/how-to-choose-a-multilingual-website-redesign-company-in-anhui-5-key-factors.html",
+      "images": [
+        {
+          "file": "assets/images/imported/ljglobal/fc994b5e413bcf298930dad8.webp",
+          "sha256": "fc994b5e413bcf298930dad8f51ccfc47eb60f5ed0af07115d055da8a50735e2",
+          "bytes": 23052
+        }
+      ],
+      "imported_at": "2026-11-26T12:43:43.935008Z",
+      "content_sha256": "41af2b4fa8b9213b58c7e33fb9d49f34e7ed189b87afbb272001277fd70970ec"
     }
   }
 }
