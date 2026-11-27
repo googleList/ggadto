@@ -948,6 +948,65 @@
       ],
       "imported_at": "2026-11-26T12:43:43.935008Z",
       "content_sha256": "41af2b4fa8b9213b58c7e33fb9d49f34e7ed189b87afbb272001277fd70970ec"
+    },
+    "a2ac861671118b251d4c99d98ab65c19ab26d9e5fc0d9aeaae435d5a594650bd": {
+      "id": "a2ac861671118b251d4c99d98ab65c19ab26d9e5fc0d9aeaae435d5a594650bd",
+      "source_url": "https://www.ljglobal.cn/image-seo-for-export-websites-how-to-optimize-images-for-google-search/",
+      "title": "外贸网站图片没有带来搜索流量，应该如何优化图片SEO？",
+      "description": "产品图片拍得清楚，官网也上传了上百张，但Google图片搜索几乎没有曝光。遇到这种情况，不一定是图片数量不够，也不能简单归因于Alt标签没有填写。图片能否获得搜索曝光，既取决于Google能不能发现和抓取图片，也与文件名、图片说明、页面主题、图片质量和加载体验有关。外贸网站做图片SEO，应该从图片本身和所在页",
+      "category": "SEO",
+      "published_at": "2026-11-27T06:44:54Z",
+      "file": "pages/image-seo-for-export-websites-how-to-optimize-images-for-google-search.html",
+      "images": [
+        {
+          "file": "assets/images/imported/ljglobal/2d8a09740968bc1ad04ac7bb.webp",
+          "sha256": "2d8a09740968bc1ad04ac7bb22d971b168f9512117f1cb937cf03482ed90265b",
+          "bytes": 114174
+        },
+        {
+          "file": "assets/images/imported/ljglobal/e8a0f7ce9da3cea76dd8924a.webp",
+          "sha256": "e8a0f7ce9da3cea76dd8924a685b090cb606470b69e7c66d9c9463c127adf7c3",
+          "bytes": 21776
+        }
+      ],
+      "imported_at": "2026-11-27T12:33:24.664358Z",
+      "content_sha256": "dabefdf4635e30e1b5d61cc48b71554dc2996ca01943bb97426ff6c67252ca21"
+    },
+    "492c90d3b0516249f4ef69ca5c86025707216e30330550bf550e881225d2e5bc": {
+      "id": "492c90d3b0516249f4ef69ca5c86025707216e30330550bf550e881225d2e5bc",
+      "source_url": "https://www.ljglobal.cn/how-to-choose-a-corporate-website-redesign-company-in-hefei-5-key-factors/",
+      "title": "合肥企业官网改版公司怎么选？重点考察这5项",
+      "description": "很多外贸企业的官网用了五六年，却在手机上看不清文字，产品规格表藏在多层页面里，客户想询价也要找半天。当企业意识到网站需要升级后，通常会开始寻找合肥企业官网改版公司。但实际沟通时，有些团队很快就能拿出首页效果图，却说不清网站结构怎么调整、产品页面如何规划，以及设计完成后由谁负责开发。企业官网改版不只是换一套视觉",
+      "category": "资讯",
+      "published_at": "2026-11-27T02:37:16Z",
+      "file": "pages/how-to-choose-a-corporate-website-redesign-company-in-hefei-5-key-factors.html",
+      "images": [
+        {
+          "file": "assets/images/imported/ljglobal/43887bfba0f97f45ecd3ccf6.webp",
+          "sha256": "43887bfba0f97f45ecd3ccf6e3a7019b2cb8c3d69f4fcc55a29fbbb933b07390",
+          "bytes": 107298
+        }
+      ],
+      "imported_at": "2026-11-27T12:33:24.664358Z",
+      "content_sha256": "26b9166116b2bb41db37a770045c2735627891754e381578de4424d943dcb6a7"
+    },
+    "916f4cb372ddf8d8f118b56c4ad2a966458f15438f8d779cb863edb054532c80": {
+      "id": "916f4cb372ddf8d8f118b56c4ad2a966458f15438f8d779cb863edb054532c80",
+      "source_url": "https://www.ljglobal.cn/how-ai-search-evaluates-custom-manufacturing-capabilities-of-b2b-companies/",
+      "title": "AI搜索如何判断B2B企业的定制生产能力？",
+      "description": "官网写着“支持OEM/ODM定制”，海外客户却可能继续追问：能不能按图纸生产？哪些参数可以调整？有没有类似产品的加工经验？如果官网只有一句“支持定制”，AI搜索并非直接“判断”企业是否具备定制能力，而是先从搜索索引中检索与用户问题相关的网页，再综合这些网页中的信息生成回答，并链接到支持该信息的来源。因此，企业",
+      "category": "GEO",
+      "published_at": "2026-11-27T01:33:29Z",
+      "file": "pages/how-ai-search-evaluates-custom-manufacturing-capabilities-of-b2b-companies.html",
+      "images": [
+        {
+          "file": "assets/images/imported/ljglobal/51db7e4dc2662fea4742d2ca.webp",
+          "sha256": "51db7e4dc2662fea4742d2ca820c23b1e657e27614b3794d1452025cc9b90602",
+          "bytes": 70006
+        }
+      ],
+      "imported_at": "2026-11-27T12:33:24.664358Z",
+      "content_sha256": "f6cbc80307220744548f5b067e06f7de47daac650ca4fd2561679aed6b81357c"
     }
   }
 }
